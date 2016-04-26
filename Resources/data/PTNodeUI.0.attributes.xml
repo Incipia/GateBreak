@@ -7,28 +7,6 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>99</string>
-                <key>className</key>
-                <string>PTNodeUI</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Touch UI</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{399.000,-100.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>1850</string>
                 <key>className</key>
                 <string>PTNodeUI</string>
@@ -73,50 +51,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>1870</string>
-                <key>className</key>
-                <string>PTNodeUI</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Pause</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{620.000,-210.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>1882</string>
-                <key>className</key>
-                <string>PTNodeUI</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Game OverT UI</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{653.000,-79.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>2825</string>
                 <key>className</key>
                 <string>PTNodeUI</string>
@@ -128,29 +62,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{382.000,87.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2845</string>
-                <key>className</key>
-                <string>PTNodeUI</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Worlds UI</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-154.000,12.000}</string>
+                    <string>{376.000,-33.000}</string>
                     <key>isXEmpty</key>
                     <string>0</string>
                     <key>isYEmpty</key>
@@ -172,7 +84,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{651.000,81.000}</string>
+                    <string>{647.000,-92.000}</string>
                     <key>isXEmpty</key>
                     <string>0</string>
                     <key>isYEmpty</key>
@@ -194,7 +106,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{614.000,231.000}</string>
+                    <string>{645.000,46.000}</string>
                     <key>isXEmpty</key>
                     <string>0</string>
                     <key>isYEmpty</key>

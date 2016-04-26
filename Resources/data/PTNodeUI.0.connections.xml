@@ -7,37 +7,11 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>99</string>
-                <key>Pause</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>1870</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>Game Over</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>1882</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>modelId</key>
-                <string>100</string>
-                <key>attributesCount</key>
-                <string>5</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>1850</string>
                 <key>Start</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>2845</string>
+                    <string>2872</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -67,22 +41,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>1870</string>
-                <key>modelId</key>
-                <string>1871</string>
-                <key>attributesCount</key>
-                <string>3</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>1882</string>
-                <key>modelId</key>
-                <string>1883</string>
-                <key>attributesCount</key>
-                <string>3</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>2825</string>
                 <key>Game Over</key>
                 <dict>
@@ -104,32 +62,6 @@
                 </dict>
                 <key>modelId</key>
                 <string>2826</string>
-                <key>attributesCount</key>
-                <string>5</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2845</string>
-                <key>TouchControls</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>1332</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>Acceleromter</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>2872</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>modelId</key>
-                <string>2846</string>
                 <key>attributesCount</key>
                 <string>5</string>
             </dict>

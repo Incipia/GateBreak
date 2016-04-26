@@ -7,28 +7,6 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>1332</string>
-                <key>className</key>
-                <string>PTNodeScene</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>TouchControls</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{109.000,-30.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>2872</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
@@ -40,7 +18,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{110.000,112.000}</string>
+                    <string>{80.000,-35.000}</string>
                     <key>isXEmpty</key>
                     <string>0</string>
                     <key>isYEmpty</key>
