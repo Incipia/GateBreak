@@ -7,7 +7,7 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>1930</string>
+                <string>281</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
@@ -18,64 +18,22 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{312.160,470.885}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>{567.896,499.500}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -87,7 +45,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>1975</string>
+                <string>283</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
@@ -98,64 +56,98 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{170.000,310.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>{430.000,490.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.115}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>297</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{532.662,615.566}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>499</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>551</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{590.000,550.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,0.118}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -167,75 +159,395 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>1980</string>
+                <string>553</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>Gate1pnt</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{470.000,520.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>{640.000,740.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.115}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,0.118}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>555</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
                     <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{580.000,860.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,0.118}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>560</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{522.508,623.830}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>499</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>571</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{590.000,560.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,0.100}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>574</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{601.976,559.262}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>499</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>575</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{200.000,750.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
+                    <string>0.900000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1828</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{590.000,560.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1830</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{640.000,740.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2097</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{640.000,740.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2100</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{570.000,860.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -247,75 +559,111 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>1997</string>
+                <string>2121</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>Gate1pnt</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{420.000,370.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{790.000,740.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.115}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
                     <key>value</key>
+                    <string>0.900000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2130</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{130.000,-100.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>0.900000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -327,75 +675,33 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2005</string>
+                <string>2209</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>Gate1pnt</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{170.000,700.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>{-120.000,460.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.115}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -403,79 +709,37 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>2006</string>
+                <string>2213</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>Gate1pnt</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{170.000,550.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>{1260.000,540.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.115}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -483,79 +747,37 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>2007</string>
+                <string>2288</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>GlassBlockGreen</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{170.000,550.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>{542.838,305.532}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.115}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -563,79 +785,37 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>499</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>2041</string>
+                <string>2290</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>GlassBlockGreen</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{150.000,560.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>{420.000,360.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.115}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -643,79 +823,113 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>28</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>2111</string>
+                <string>2393</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>GateGreen</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{150.000,550.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>{-164.470,126.920}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.115}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
+                <key>zDepth</key>
+                <string>499</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2395</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-110.000,230.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2397</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GateGreen</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-110.000,230.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -727,75 +941,221 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2115</string>
+                <string>2398</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>GateGreen</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{480.000,360.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{-240.000,740.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.115}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>6</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2399</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
                     <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-110.000,770.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2401</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GateGreen</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-110.000,770.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>7</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2402</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GateGreen</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1170.000,70.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>7</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2403</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1260.000,210.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -807,75 +1167,127 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2116</string>
+                <string>2405</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>GateGreen</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,140.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>{1260.000,210.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.115}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>7</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2406</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
                     <key>value</key>
+                    <string>GateGreen</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1180.000,570.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>8</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2407</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Gate1pnt</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1260.000,900.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -887,104 +1299,18 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2117</string>
+                <string>2660</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>Gate1pnt</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{380.000,770.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.650,0.115}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>2</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2259</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-180.000,320.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{840.000,-100.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -992,29 +1318,13 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1024,28 +1334,16 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>0.900000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -1055,28 +1353,22 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>0</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>2302</string>
+                <string>2668</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>Gate1pnt</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{-190.000,780.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{-1820.000,90.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1084,29 +1376,13 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1116,28 +1392,16 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>0.900000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -1151,24 +1415,18 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2310</string>
+                <string>2684</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>Gate1pnt</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{-190.000,560.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{-1820.000,450.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1176,29 +1434,13 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1208,28 +1450,16 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>0.900000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -1243,24 +1473,18 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2318</string>
+                <string>3671</string>
                 <key>className</key>
                 <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GlassBlock</string>
+                    <string>GlassBlockPurple</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{810.000,100.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1580.000,320.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1268,29 +1492,13 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1300,304 +1508,14 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2326</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{810.000,350.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2334</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{810.000,610.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>8</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2342</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{810.000,820.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -1608,1202 +1526,6 @@
                 </dict>
                 <key>zDepth</key>
                 <string>9</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2350</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{580.000,1000.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>10</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2358</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{140.000,1000.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>11</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2587</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-180.000,140.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>1</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2881</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-180.000,320.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2884</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-190.000,780.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>4</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2888</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-190.000,560.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>5</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2892</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{810.000,100.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2896</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{810.000,350.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2900</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{810.000,610.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>8</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2904</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{810.000,820.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>9</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2908</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{580.000,1000.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>10</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2912</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{140.000,1000.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>11</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2918</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-180.000,140.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.832,0.099}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>1</string>
             </dict>
         </array>
     </dict>

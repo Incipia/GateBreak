@@ -18,13 +18,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{568.000,320.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -32,16 +26,6 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -49,12 +33,6 @@
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -64,473 +42,23 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
                 <key>zDepth</key>
-                <string>0</string>
+                <string>-1</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>155</string>
-                <key>className</key>
-                <string>PTModelObjectImage</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Untitled</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>346</string>
-                <key>className</key>
-                <string>PTModelObjectImage</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Untitled</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>447</string>
-                <key>className</key>
-                <string>PTModelObjectImage</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Untitled</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>1852</string>
-                <key>className</key>
-                <string>PTModelObjectImage</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Untitled</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,568.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.563,1.775}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>1857</string>
+                <string>119</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
@@ -541,13 +69,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,681.600}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{568.000,416.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -555,16 +77,6 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -572,12 +84,6 @@
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -587,55 +93,23 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>0</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1863</string>
+                <string>125</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
@@ -646,89 +120,29 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,568.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>{568.000,320.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.563,1.775}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
                 </dict>
                 <key>zDepth</key>
                 <string>-1</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1872</string>
+                <string>134</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
@@ -739,13 +153,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,568.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{568.000,320.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -753,29 +161,13 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.563,1.775}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -785,55 +177,107 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
                 </dict>
                 <key>zDepth</key>
                 <string>-1</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1875</string>
+                <string>137</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>World Select</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{568.000,512.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>140</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{568.000,320.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>-1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>143</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
@@ -844,101 +288,29 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,795.200}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
+                    <string>{268.500,525.500}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1885</string>
+                <string>156</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
@@ -949,13 +321,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,568.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{568.000,320.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -963,29 +329,13 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.563,1.775}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.224,1.224}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -995,55 +345,25 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>0.700000</string>
                     <key>animations</key>
                     <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1888</string>
+                <string>159</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
@@ -1054,13 +374,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,795.200}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{455.500,525.500}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1068,16 +382,6 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -1085,12 +389,6 @@
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1100,55 +398,23 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
                 </dict>
                 <key>zDepth</key>
                 <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1926</string>
+                <string>229</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
@@ -1160,12 +426,6 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1173,16 +433,6 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -1190,12 +440,6 @@
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1205,43 +449,16 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1253,7 +470,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2407</string>
+                <string>308</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
@@ -1265,12 +482,6 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1278,29 +489,13 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,0.100}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1310,43 +505,16 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1358,7 +526,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2456</string>
+                <string>319</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
@@ -1370,76 +538,39 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1451,7 +582,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2986</string>
+                <string>584</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
@@ -1462,13 +593,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,568.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{0.000,0.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1476,29 +601,13 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.563,1.775}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1508,160 +617,28 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
-                    <string>1</string>
+                    <string>0</string>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>2987</string>
-                <key>className</key>
-                <string>PTModelObjectImage</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Game Over</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,795.200}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>zDepth</key>
-                <string>3</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2994</string>
+                <string>2260</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
@@ -1672,118 +649,40 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,568.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
+                    <string>{0.000,0.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.563,1.775}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>-1</string>
+                <string>0</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>2995</string>
+                <string>2272</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Logo</string>
+                    <string>Untitled</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,795.200}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{0.000,0.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1791,16 +690,6 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -1808,12 +697,6 @@
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1823,48 +706,461 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
                     <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2284</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.700,0.100}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
                     <string>0</string>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
-                    <string>1</string>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2848</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>CapDamage</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3314</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BG_Circle</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3521</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BG</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3535</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Wall</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3576</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-51.000,300.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,5.012}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>6</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3578</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1186.000,300.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,5.012}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>7</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3636</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GlassBlockPurple</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.500,0.100}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3651</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GlassBlockPurple</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>

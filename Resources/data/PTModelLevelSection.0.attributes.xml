@@ -7,7 +7,7 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>103</string>
+                <string>165</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
                 <key>Name</key>
@@ -17,363 +17,73 @@
                     <key>value</key>
                     <string>Start</string>
                 </dict>
-                <key>Start Distance</key>
+                <key>End Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>1</string>
+                <key>parentScreenId</key>
+                <string>100</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>201</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Start</string>
                 </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>1136.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
-                <string>1</string>
+                <string>0</string>
                 <key>parentScreenId</key>
-                <string>102</string>
+                <string>200</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1334</string>
+                <string>195</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
                 <key>Name</key>
                 <dict>
-                    <key>visible</key>
-                    <string>0</string>
                     <key>value</key>
                     <string>Start</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Width</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>1</string>
-                <key>parentScreenId</key>
-                <string>1333</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2874</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Start</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>End Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Width</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>1</string>
-                <key>parentScreenId</key>
-                <string>2873</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>1250</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Start</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>End Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>1136.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>1</string>
-                <key>parentScreenId</key>
-                <string>1249</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>1694</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>End Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Width</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -382,161 +92,11 @@
                 <key>initSection</key>
                 <string>0</string>
                 <key>parentScreenId</key>
-                <string>1333</string>
+                <string>194</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>2878</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>End Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Width</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-                <key>parentScreenId</key>
-                <string>2873</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>104</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>End Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Width</key>
-                <dict>
-                    <key>value</key>
-                    <string>3001.879883</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-                <key>parentScreenId</key>
-                <string>102</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>938</string>
+                <string>189</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
                 <key>Name</key>
@@ -546,57 +106,15 @@
                     <key>value</key>
                     <string>Start</string>
                 </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>1136.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -605,11 +123,11 @@
                 <key>initSection</key>
                 <string>1</string>
                 <key>parentScreenId</key>
-                <string>937</string>
+                <string>188</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>939</string>
+                <string>166</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
                 <key>Name</key>
@@ -621,53 +139,11 @@
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>End Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
-                    <string>1808.250488</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>470.230133</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -676,92 +152,11 @@
                 <key>initSection</key>
                 <string>0</string>
                 <key>parentScreenId</key>
-                <string>937</string>
+                <string>100</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>2868</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Start</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>End Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Width</key>
-                <dict>
-                    <key>value</key>
-                    <string>640.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>1</string>
-                <key>parentScreenId</key>
-                <string>2813</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2869</string>
+                <string>204</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
                 <key>Name</key>
@@ -773,61 +168,11 @@
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>End Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
-                    <string>640.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
+                    <string>1136.000000</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -836,7 +181,65 @@
                 <key>initSection</key>
                 <string>0</string>
                 <key>parentScreenId</key>
-                <string>2813</string>
+                <string>200</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>198</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1136.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>194</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>192</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1136.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>188</string>
             </dict>
         </array>
     </dict>

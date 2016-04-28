@@ -27,37 +27,6 @@
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
                 </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Loop Music</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -76,7 +45,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>1851</string>
+                <string>102</string>
                 <key>className</key>
                 <string>PTModelScreen</string>
                 <key>Name</key>
@@ -98,38 +67,51 @@
                 </dict>
                 <key>Ad Interstitials Freq.</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Ad Banner Freq.</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                     <key>animations</key>
                     <array/>
                 </dict>
-                <key>Loop Music</key>
+                <key>Background Scene</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenMainMenu</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>113</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
-                    <string>1</string>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -149,7 +131,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>1862</string>
+                <string>124</string>
                 <key>className</key>
                 <string>PTModelScreen</string>
                 <key>Name</key>
@@ -168,37 +150,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
-                </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Loop Music</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -218,7 +169,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2826</string>
+                <string>133</string>
                 <key>className</key>
                 <string>PTModelScreen</string>
                 <key>Name</key>
@@ -238,41 +189,6 @@
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
                 </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Loop Music</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -281,7 +197,7 @@
                     <string>kNoBackground</string>
                 </dict>
                 <key>key</key>
-                <string>PTPScreenUi 1</string>
+                <string>PTPScreenWorldsUI</string>
                 <key>openFrames</key>
                 <string>40</string>
                 <key>idleFrames</key>
@@ -291,7 +207,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2985</string>
+                <string>139</string>
                 <key>className</key>
                 <string>PTModelScreen</string>
                 <key>Name</key>
@@ -311,41 +227,6 @@
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
                 </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Loop Music</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -354,7 +235,7 @@
                     <string>kNoBackground</string>
                 </dict>
                 <key>key</key>
-                <string>PTPScreenUi 3</string>
+                <string>PTPPauseScreen</string>
                 <key>openFrames</key>
                 <string>40</string>
                 <key>idleFrames</key>
@@ -364,7 +245,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2993</string>
+                <string>154</string>
                 <key>className</key>
                 <string>PTModelScreen</string>
                 <key>Name</key>
@@ -384,41 +265,6 @@
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
                 </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Loop Music</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -427,7 +273,7 @@
                     <string>kNoBackground</string>
                 </dict>
                 <key>key</key>
-                <string>PTPScreenUi 4</string>
+                <string>PTPGameOverScreen</string>
                 <key>openFrames</key>
                 <string>40</string>
                 <key>idleFrames</key>

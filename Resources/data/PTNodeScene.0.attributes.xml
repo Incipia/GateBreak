@@ -7,24 +7,66 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>2872</string>
+                <string>99</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>AccelControls</string>
+                    <string>World 1</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{80.000,-35.000}</string>
-                    <key>isXEmpty</key>
-                    <string>0</string>
-                    <key>isYEmpty</key>
-                    <string>0</string>
-                    <key>useDefault</key>
-                    <string>1</string>
+                    <string>{100.000,-100.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>187</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>World 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{100.000,10.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>193</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>World 3</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{100.000,120.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>199</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>World 4</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{100.000,230.000}</string>
                 </dict>
             </dict>
         </array>

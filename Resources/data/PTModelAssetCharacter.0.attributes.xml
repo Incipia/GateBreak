@@ -7,18 +7,18 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>111</string>
+                <string>226</string>
                 <key>className</key>
                 <string>PTModelAssetCharacter</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Character</string>
+                    <string>PlayerNew</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
                     <key>id</key>
-                    <string>316</string>
+                    <string>257</string>
                     <key>className</key>
                     <string>PTModelCircle</string>
                     <key>Name</key>
@@ -28,75 +28,23 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{0.500000,1.000000}</string>
-                        <string>{30.500000,1.000000}</string>
+                        <string>{0.000000,0.000000}</string>
+                        <string>{66.599998,1.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
-                <key>Cast Shadow</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Auto Tilt</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
+                    <string>0.500000</string>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.500000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
-                </dict>
-                <key>Fall Attribute</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -107,16 +55,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>1</string>
-                    <key>isEmpty</key>
-                    <string>0</string>
-                    <key>useDefaultVarible</key>
-                    <string>1</string>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>

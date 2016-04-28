@@ -7,25 +7,16 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>111</string>
+                <string>226</string>
                 <key>Default Animation</key>
                 <dict>
                     <key>value</key>
-                    <string>113</string>
-                </dict>
-                <key>Move Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>154</string>
-                </dict>
-                <key>Defeated Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>979</string>
+                    <string>228</string>
                 </dict>
                 <key>components</key>
                 <array>
-                    <string>117</string>
+                    <string>232</string>
+                    <string>2810</string>
                 </array>
             </dict>
         </array>

@@ -16,6 +16,10 @@ public:
     virtual void applicationDidEnterBackground();
     virtual void applicationWillEnterForeground();
 
+    void scheduledLoading();
+
+    bool isTrial();
+    void dumpSignatures();
 
 };
 
