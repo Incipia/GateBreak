@@ -165,11 +165,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -185,11 +198,15 @@
                 <dict>
                     <key>value</key>
                     <string>1000.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Emission Rate</key>
                 <dict>
                     <key>value</key>
                     <string>1000.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Start Size</key>
                 <dict>
@@ -197,6 +214,8 @@
                     <string>12.000000</string>
                     <key>variableValue</key>
                     <string>3.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>End Size</key>
                 <dict>
@@ -204,11 +223,32 @@
                     <string>0.100000</string>
                     <key>variableValue</key>
                     <string>0.300000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Start Spin</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Spin</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Gravity</key>
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Radial Acceleration</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Speed</key>
                 <dict>
@@ -216,6 +256,8 @@
                     <string>500.000000</string>
                     <key>variableValue</key>
                     <string>20.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Angle</key>
                 <dict>
@@ -223,6 +265,8 @@
                     <string>0.000000</string>
                     <key>variableValue</key>
                     <string>360.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Life</key>
                 <dict>
@@ -230,6 +274,8 @@
                     <string>0.300000</string>
                     <key>variableValue</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Color</key>
                 <dict>
@@ -237,7 +283,7 @@
                     <array>
                         <dict>
                             <key>pos</key>
-                            <string>1.000000</string>
+                            <string>0.000000</string>
                             <key>r</key>
                             <string>1.000000</string>
                             <key>g</key>
@@ -245,11 +291,11 @@
                             <key>b</key>
                             <string>1.000000</string>
                             <key>a</key>
-                            <string>0.000000</string>
+                            <string>1.000000</string>
                         </dict>
                         <dict>
                             <key>pos</key>
-                            <string>0.000000</string>
+                            <string>1.000000</string>
                             <key>r</key>
                             <string>1.000000</string>
                             <key>g</key>
@@ -257,7 +303,7 @@
                             <key>b</key>
                             <string>1.000000</string>
                             <key>a</key>
-                            <string>1.000000</string>
+                            <string>0.000000</string>
                         </dict>
                     </array>
                 </dict>
@@ -267,7 +313,7 @@
                     <array>
                         <dict>
                             <key>pos</key>
-                            <string>1.000000</string>
+                            <string>0.000000</string>
                             <key>r</key>
                             <string>1.000000</string>
                             <key>g</key>
@@ -279,7 +325,7 @@
                         </dict>
                         <dict>
                             <key>pos</key>
-                            <string>0.000000</string>
+                            <string>1.000000</string>
                             <key>r</key>
                             <string>1.000000</string>
                             <key>g</key>
@@ -313,11 +359,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -333,6 +392,13 @@
                 <dict>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Emission Rate</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Start Size</key>
                 <dict>
@@ -340,6 +406,8 @@
                     <string>5.000000</string>
                     <key>variableValue</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>End Size</key>
                 <dict>
@@ -347,11 +415,32 @@
                     <string>0.100000</string>
                     <key>variableValue</key>
                     <string>0.300000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Start Spin</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Spin</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Gravity</key>
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Radial Acceleration</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Speed</key>
                 <dict>
@@ -359,6 +448,8 @@
                     <string>100.000000</string>
                     <key>variableValue</key>
                     <string>20.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Angle</key>
                 <dict>
@@ -366,6 +457,8 @@
                     <string>0.000000</string>
                     <key>variableValue</key>
                     <string>360.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Life</key>
                 <dict>
@@ -373,6 +466,8 @@
                     <string>0.200000</string>
                     <key>variableValue</key>
                     <string>0.250000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Color</key>
                 <dict>
@@ -431,294 +526,6 @@
                             <string>1.000000</string>
                             <key>a</key>
                             <string>1.000000</string>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Position Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCCPositionTypeRelative</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>6583</string>
-                <key>className</key>
-                <string>PTModelObjectAssetParticlesEmitter</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Untitled</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{7.000,-3.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Total Particles</key>
-                <dict>
-                    <key>value</key>
-                    <string>300.000000</string>
-                </dict>
-                <key>Emission Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>300.000000</string>
-                </dict>
-                <key>Start Size</key>
-                <dict>
-                    <key>value</key>
-                    <string>4.000000</string>
-                </dict>
-                <key>End Size</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.100000</string>
-                </dict>
-                <key>Gravity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                </dict>
-                <key>Speed</key>
-                <dict>
-                    <key>value</key>
-                    <string>200.000000</string>
-                    <key>variableValue</key>
-                    <string>20.000000</string>
-                </dict>
-                <key>Angle</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>360.000000</string>
-                </dict>
-                <key>Life</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.250000</string>
-                </dict>
-                <key>Color</key>
-                <dict>
-                    <key>gradients</key>
-                    <array>
-                        <dict>
-                            <key>pos</key>
-                            <string>1.000000</string>
-                            <key>r</key>
-                            <string>0.039994</string>
-                            <key>g</key>
-                            <string>0.710002</string>
-                            <key>b</key>
-                            <string>0.669993</string>
-                            <key>a</key>
-                            <string>0.000000</string>
-                        </dict>
-                        <dict>
-                            <key>pos</key>
-                            <string>0.000000</string>
-                            <key>r</key>
-                            <string>0.039994</string>
-                            <key>g</key>
-                            <string>0.710002</string>
-                            <key>b</key>
-                            <string>0.669993</string>
-                            <key>a</key>
-                            <string>0.600000</string>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Color Variation</key>
-                <dict>
-                    <key>gradients</key>
-                    <array>
-                        <dict>
-                            <key>pos</key>
-                            <string>1.000000</string>
-                            <key>r</key>
-                            <string>0.000000</string>
-                            <key>g</key>
-                            <string>0.000000</string>
-                            <key>b</key>
-                            <string>0.000000</string>
-                            <key>a</key>
-                            <string>0.000000</string>
-                        </dict>
-                        <dict>
-                            <key>pos</key>
-                            <string>0.000000</string>
-                            <key>r</key>
-                            <string>0.000000</string>
-                            <key>g</key>
-                            <string>0.000000</string>
-                            <key>b</key>
-                            <string>0.000000</string>
-                            <key>a</key>
-                            <string>0.000000</string>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Position Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCCPositionTypeRelative</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>6608</string>
-                <key>className</key>
-                <string>PTModelObjectAssetParticlesEmitter</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Untitled</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Total Particles</key>
-                <dict>
-                    <key>value</key>
-                    <string>300.000000</string>
-                </dict>
-                <key>Emission Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>300.000000</string>
-                </dict>
-                <key>Start Size</key>
-                <dict>
-                    <key>value</key>
-                    <string>4.000000</string>
-                </dict>
-                <key>End Size</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.100000</string>
-                </dict>
-                <key>Gravity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                </dict>
-                <key>Speed</key>
-                <dict>
-                    <key>value</key>
-                    <string>200.000000</string>
-                    <key>variableValue</key>
-                    <string>20.000000</string>
-                </dict>
-                <key>Angle</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>variableValue</key>
-                    <string>360.000000</string>
-                </dict>
-                <key>Life</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>variableValue</key>
-                    <string>0.250000</string>
-                </dict>
-                <key>Color</key>
-                <dict>
-                    <key>gradients</key>
-                    <array>
-                        <dict>
-                            <key>pos</key>
-                            <string>1.000000</string>
-                            <key>r</key>
-                            <string>0.080003</string>
-                            <key>g</key>
-                            <string>1.000000</string>
-                            <key>b</key>
-                            <string>0.000000</string>
-                            <key>a</key>
-                            <string>0.000000</string>
-                        </dict>
-                        <dict>
-                            <key>pos</key>
-                            <string>0.000000</string>
-                            <key>r</key>
-                            <string>0.080003</string>
-                            <key>g</key>
-                            <string>1.000000</string>
-                            <key>b</key>
-                            <string>0.000000</string>
-                            <key>a</key>
-                            <string>0.600000</string>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Color Variation</key>
-                <dict>
-                    <key>gradients</key>
-                    <array>
-                        <dict>
-                            <key>pos</key>
-                            <string>1.000000</string>
-                            <key>r</key>
-                            <string>0.000000</string>
-                            <key>g</key>
-                            <string>0.000000</string>
-                            <key>b</key>
-                            <string>0.000000</string>
-                            <key>a</key>
-                            <string>0.000000</string>
-                        </dict>
-                        <dict>
-                            <key>pos</key>
-                            <string>0.000000</string>
-                            <key>r</key>
-                            <string>0.000000</string>
-                            <key>g</key>
-                            <string>0.000000</string>
-                            <key>b</key>
-                            <string>0.000000</string>
-                            <key>a</key>
-                            <string>0.000000</string>
                         </dict>
                     </array>
                 </dict>
