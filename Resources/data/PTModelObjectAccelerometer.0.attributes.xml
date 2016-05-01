@@ -7,7 +7,7 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>246</string>
+                <string>5197</string>
                 <key>className</key>
                 <string>PTModelObjectAccelerometer</string>
                 <key>Name</key>
@@ -20,7 +20,122 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{460.000,570.000}</string>
+                    <string>{710.000,590.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Sensitivity</key>
+                <dict>
+                    <key>value</key>
+                    <string>2.000000</string>
+                </dict>
+                <key>Control Style</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kControlStyleRelative</string>
+                </dict>
+                <key>Control Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kControlTypeMove</string>
+                </dict>
+                <key>Active Axes</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kActiveAxeBoth</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5758</string>
+                <key>className</key>
+                <string>PTModelObjectAccelerometer</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Accelerometer</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{680.000,590.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Control Style</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kControlStyleRelative</string>
+                </dict>
+                <key>Control Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kControlTypeMove</string>
+                </dict>
+                <key>Active Axes</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kActiveAxeX</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6776</string>
+                <key>className</key>
+                <string>PTModelObjectAccelerometer</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Accelerometer</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{690.000,580.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -84,7 +199,7 @@
                     <string>kActiveAxeBoth</string>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>1</string>
             </dict>
         </array>
     </dict>

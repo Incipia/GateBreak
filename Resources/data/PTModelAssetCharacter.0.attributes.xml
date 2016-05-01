@@ -40,25 +40,11 @@
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Fall Attribute</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -69,8 +55,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>

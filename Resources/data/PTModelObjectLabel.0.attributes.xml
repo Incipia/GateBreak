@@ -96,7 +96,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>0</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -247,6 +247,156 @@
                 </dict>
                 <key>zDepth</key>
                 <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5032</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Cent Goth</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{568.000,580.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kScoreVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kScoreCoins</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kScoreCurrent</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentCenter</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>3166</string>
+                </dict>
+                <key>Tracking</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5757</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Cent Goth</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{568.000,580.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kScoreVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kScoreCoins</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kScoreCurrent</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentCenter</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>3166</string>
+                </dict>
+                <key>Tracking</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
             </dict>
         </array>
     </dict>
