@@ -8,19 +8,19 @@
             <dict>
                 <key>id</key>
                 <string>101</string>
-                <key>Pause</key>
+                <key>Game Over</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>138</string>
+                    <string>153</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Game Over</key>
+                <key>Pause</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>153</string>
+                    <string>138</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -34,19 +34,19 @@
             <dict>
                 <key>id</key>
                 <string>112</string>
-                <key>Start</key>
+                <key>Info Screen</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>132</string>
+                    <string>123</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Info Screen</key>
+                <key>Start</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>123</string>
+                    <string>132</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -68,15 +68,6 @@
             <dict>
                 <key>id</key>
                 <string>132</string>
-                <key>World 2 New</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>8300</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
                 <key>World 1 New</key>
                 <dict>
                     <key>connectedModelId</key>
@@ -86,37 +77,10 @@
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>World 1</key>
+                <key>World 2 New</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>99</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>World 2</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>4094</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>World 3</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>6097</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>World 4</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>6236</string>
+                    <string>8300</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -125,7 +89,7 @@
                 <key>modelId</key>
                 <string>133</string>
                 <key>attributesCount</key>
-                <string>9</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
