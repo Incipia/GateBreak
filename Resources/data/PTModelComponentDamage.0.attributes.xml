@@ -7,7 +7,7 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>2810</string>
+                <string>6861</string>
                 <key>className</key>
                 <string>PTModelComponentDamage</string>
                 <key>Name</key>
@@ -19,13 +19,112 @@
                 </dict>
                 <key>Damage</key>
                 <dict>
-                    <key>animations</key>
-                    <array/>
+                    <key>value</key>
+                    <string>-1.000000</string>
                 </dict>
-                <key>Damage delay</key>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7586</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
                 <dict>
-                    <key>animations</key>
-                    <array/>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7883</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7888</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7889</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7890</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7891</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7892</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7893</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
                 </dict>
             </dict>
         </array>

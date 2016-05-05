@@ -18,7 +18,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{400.000,-100.000}</string>
+                    <string>{400.000,0.000}</string>
                 </dict>
             </dict>
             <dict>
@@ -50,7 +50,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,-210.000}</string>
+                    <string>{-167.000,-235.000}</string>
                 </dict>
             </dict>
             <dict>
@@ -82,7 +82,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{620.000,-210.000}</string>
+                    <string>{636.000,181.000}</string>
                 </dict>
             </dict>
             <dict>
@@ -98,23 +98,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{620.000,-100.000}</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5753</string>
-                <key>className</key>
-                <string>PTNodeUI</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Accel</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{367.000,189.000}</string>
+                    <string>{847.000,71.000}</string>
                 </dict>
             </dict>
         </array>

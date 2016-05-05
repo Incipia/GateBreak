@@ -208,7 +208,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>World 1 Button</string>
+                    <string>World 1 New</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -223,7 +223,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>World 2 Button</string>
+                    <string>World 2 New</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -253,7 +253,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>World 4 Button</string>
+                    <string>World 6</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -269,21 +269,6 @@
                 <dict>
                     <key>value</key>
                     <string>BG</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>224</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>PlayerNew</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -314,21 +299,6 @@
                 <dict>
                     <key>value</key>
                     <string>GlassBlock</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2255</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GlassBlockOrange</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -427,21 +397,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>3572</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Wall</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>3646</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -449,36 +404,6 @@
                 <dict>
                     <key>value</key>
                     <string>GlassBlockPurple</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5288</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GateBlue</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5300</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GateGreen</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -502,36 +427,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>5443</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Emitter</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5459</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Wall</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>5530</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -540,25 +435,20 @@
                     <key>value</key>
                     <string>BG</string>
                 </dict>
-                <key>Brightness</key>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6032</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
                 <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Contrast</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Hue</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Saturation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <key>value</key>
+                    <string>GateRed</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -567,33 +457,253 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>5607</string>
+                <string>6046</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Emitter</string>
+                    <string>GateBlue</string>
                 </dict>
-                <key>Brightness</key>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6057</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
                 <dict>
-                    <key>animations</key>
-                    <array/>
+                    <key>value</key>
+                    <string>GateGreen</string>
                 </dict>
-                <key>Contrast</key>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6066</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
                 <dict>
-                    <key>animations</key>
-                    <array/>
+                    <key>value</key>
+                    <string>GateCircleGreen</string>
                 </dict>
-                <key>Hue</key>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6077</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
                 <dict>
-                    <key>animations</key>
-                    <array/>
+                    <key>value</key>
+                    <string>GateCircleBlue</string>
                 </dict>
-                <key>Saturation</key>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7432</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
                 <dict>
-                    <key>animations</key>
-                    <array/>
+                    <key>value</key>
+                    <string>PlayerO1</string>
+                </dict>
+                <key>duration</key>
+                <string>0.600000</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7657</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PinkGem</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7678</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PlayerShell</string>
+                </dict>
+                <key>duration</key>
+                <string>0.600000</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7813</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlueGem</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7822</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GreenGem</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7831</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>OrangeGem</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7840</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PurpleGem</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7849</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>RedGem</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7858</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SkyGem</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7867</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>YellowGem</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9378</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GateBlue</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9435</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GateGreen</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9707</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GlassBlockPurple</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>

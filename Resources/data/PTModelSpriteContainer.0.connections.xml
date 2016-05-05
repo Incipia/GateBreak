@@ -151,14 +151,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>224</string>
-                <key>sprites</key>
-                <array>
-                    <string>225</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>314</string>
                 <key>sprites</key>
                 <array>
@@ -171,14 +163,6 @@
                 <key>sprites</key>
                 <array>
                     <string>580</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2255</string>
-                <key>sprites</key>
-                <array>
-                    <string>2256</string>
                 </array>
             </dict>
             <dict>
@@ -231,34 +215,10 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>3572</string>
-                <key>sprites</key>
-                <array>
-                    <string>3573</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>3646</string>
                 <key>sprites</key>
                 <array>
                     <string>3647</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5288</string>
-                <key>sprites</key>
-                <array>
-                    <string>5289</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5300</string>
-                <key>sprites</key>
-                <array>
-                    <string>5301</string>
                 </array>
             </dict>
             <dict>
@@ -271,22 +231,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>5443</string>
-                <key>sprites</key>
-                <array>
-                    <string>5444</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5459</string>
-                <key>sprites</key>
-                <array>
-                    <string>5460</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>5530</string>
                 <key>sprites</key>
                 <array>
@@ -295,10 +239,180 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>5607</string>
+                <string>6032</string>
                 <key>sprites</key>
                 <array>
-                    <string>5608</string>
+                    <string>6033</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6046</string>
+                <key>sprites</key>
+                <array>
+                    <string>6047</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6057</string>
+                <key>sprites</key>
+                <array>
+                    <string>6058</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6066</string>
+                <key>sprites</key>
+                <array>
+                    <string>6067</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6077</string>
+                <key>sprites</key>
+                <array>
+                    <string>6078</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7432</string>
+                <key>sprites</key>
+                <array>
+                    <string>7433</string>
+                    <string>7434</string>
+                    <string>7435</string>
+                    <string>7436</string>
+                    <string>7437</string>
+                    <string>7438</string>
+                    <string>7439</string>
+                    <string>7440</string>
+                    <string>7441</string>
+                    <string>7442</string>
+                    <string>7443</string>
+                    <string>7444</string>
+                    <string>7445</string>
+                    <string>7446</string>
+                    <string>7447</string>
+                    <string>7448</string>
+                    <string>7449</string>
+                    <string>7450</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7657</string>
+                <key>sprites</key>
+                <array>
+                    <string>7658</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7678</string>
+                <key>sprites</key>
+                <array>
+                    <string>7679</string>
+                    <string>7680</string>
+                    <string>7681</string>
+                    <string>7682</string>
+                    <string>7683</string>
+                    <string>7684</string>
+                    <string>7685</string>
+                    <string>7686</string>
+                    <string>7687</string>
+                    <string>7688</string>
+                    <string>7689</string>
+                    <string>7690</string>
+                    <string>7691</string>
+                    <string>7692</string>
+                    <string>7693</string>
+                    <string>7694</string>
+                    <string>7695</string>
+                    <string>7696</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7813</string>
+                <key>sprites</key>
+                <array>
+                    <string>7814</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7822</string>
+                <key>sprites</key>
+                <array>
+                    <string>7823</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7831</string>
+                <key>sprites</key>
+                <array>
+                    <string>7832</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7840</string>
+                <key>sprites</key>
+                <array>
+                    <string>7841</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7849</string>
+                <key>sprites</key>
+                <array>
+                    <string>7850</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7858</string>
+                <key>sprites</key>
+                <array>
+                    <string>7859</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7867</string>
+                <key>sprites</key>
+                <array>
+                    <string>7868</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9378</string>
+                <key>sprites</key>
+                <array>
+                    <string>9379</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9435</string>
+                <key>sprites</key>
+                <array>
+                    <string>9436</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9707</string>
+                <key>sprites</key>
+                <array>
+                    <string>9708</string>
                 </array>
             </dict>
         </array>

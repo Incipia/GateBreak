@@ -40,6 +40,11 @@
                     <key>value</key>
                     <string>583</string>
                 </dict>
+                <key>components</key>
+                <array>
+                    <string>6857</string>
+                    <string>6861</string>
+                </array>
             </dict>
             <dict>
                 <key>id</key>
@@ -97,6 +102,24 @@
                 <dict>
                     <key>value</key>
                     <string>3650</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6034</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6036</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7451</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7453</string>
                 </dict>
             </dict>
         </array>
