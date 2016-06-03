@@ -4,6 +4,11 @@
 <plist version="1.0">
     <dict>
         <key>ROOT</key>
-        <array/>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>12306</string>
+            </dict>
+        </array>
     </dict>
 </plist>
