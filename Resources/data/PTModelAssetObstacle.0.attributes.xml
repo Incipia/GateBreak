@@ -18,7 +18,7 @@
                 <key>Collision Shape</key>
                 <dict>
                     <key>id</key>
-                    <string>264</string>
+                    <string>10709</string>
                     <key>className</key>
                     <string>PTModelPolygon</string>
                     <key>Name</key>
@@ -28,10 +28,45 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{-100.000000,-100.000000}</string>
-                        <string>{100.000000,-100.000000}</string>
-                        <string>{100.000000,100.000000}</string>
-                        <string>{-100.000000,100.000000}</string>
+                        <string>{-40.000000,-40.000000}</string>
+                        <string>{40.000000,-40.000000}</string>
+                        <string>{40.000000,40.000000}</string>
+                        <string>{-40.000000,40.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10207</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Cap</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>10208</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-7.000000,-36.000000}</string>
+                        <string>{11.000000,-55.000000}</string>
+                        <string>{10.000000,55.000000}</string>
+                        <string>{-8.000000,35.000000}</string>
+                        <string>{-18.000000,0.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -343,6 +378,40 @@
                     <string>{0.000000,0.000000}</string>
                     <key>shapeType</key>
                     <string>2</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10782</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlackCircle</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>10783</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-49.000000,-50.000000}</string>
+                        <string>{52.000000,-50.000000}</string>
+                        <string>{52.000000,50.000000}</string>
+                        <string>{-49.000000,50.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
                 </dict>
             </dict>
         </array>
