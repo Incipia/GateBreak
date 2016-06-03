@@ -61,15 +61,13 @@
                 </dict>
                 <key>Sensitivity</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.500000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Control Style</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kControlStyleRelative</string>
+                    <string>kControlStyleAbsolute</string>
                 </dict>
                 <key>zDepth</key>
                 <string>2</string>
