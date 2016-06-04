@@ -104,6 +104,50 @@
                     </array>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>15726</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>15728</string>
+                    </array>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15952</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>15954</string>
+                    </array>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16269</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>16271</string>
+                    </array>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16273</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>16275</string>
+                    </array>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

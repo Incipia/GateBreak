@@ -1668,17 +1668,10 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
                     <string>15.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Color</key>
                 <dict>
@@ -1697,7 +1690,7 @@
                     <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1742,17 +1735,10 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
                     <string>15.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Color</key>
                 <dict>
@@ -1771,7 +1757,7 @@
                     <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1816,11 +1802,6 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
@@ -1843,7 +1824,7 @@
                     <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1888,11 +1869,6 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
@@ -1915,7 +1891,7 @@
                     <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1960,11 +1936,6 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
@@ -1987,7 +1958,7 @@
                     <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2032,11 +2003,6 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
@@ -2059,7 +2025,7 @@
                     <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2104,11 +2070,6 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
@@ -2131,7 +2092,7 @@
                     <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2176,10 +2137,809 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15618</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-10.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
                 <dict>
                     <key>animations</key>
                     <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>503</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15620</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1140.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>504</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16302</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-10.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16304</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1140.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16332</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-10.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16334</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1140.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16368</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-10.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16370</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1140.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16397</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-10.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16399</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1140.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16437</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-10.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>503</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16439</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Light</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1140.000,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
                 </dict>
                 <key>Radius</key>
                 <dict>

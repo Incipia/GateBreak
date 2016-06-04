@@ -176,6 +176,33 @@
                     <key>value</key>
                     <string>14910</string>
                 </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>15584</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>15594</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15695</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>15697</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15929</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>15931</string>
+                </dict>
             </dict>
         </array>
     </dict>

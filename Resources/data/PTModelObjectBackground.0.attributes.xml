@@ -513,7 +513,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,490.000}</string>
+                    <string>{0.100,250.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -527,7 +527,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,2.495}</string>
+                    <string>{1.000,2.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -547,6 +547,11 @@
                 <dict>
                     <key>animations</key>
                     <array/>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                 </dict>
                 <key>zDepth</key>
                 <string>-100</string>
@@ -583,6 +588,62 @@
                 </dict>
                 <key>zDepth</key>
                 <string>-98</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16260</string>
+                <key>className</key>
+                <string>PTModelObjectBackground</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BG</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,250.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,2.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                </dict>
+                <key>zDepth</key>
+                <string>-100</string>
             </dict>
         </array>
     </dict>

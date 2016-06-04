@@ -22,6 +22,23 @@
                 <key>attributesCount</key>
                 <string>4</string>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>16258</string>
+                <key>UI</key>
+                <dict>
+                    <key>connectedModelId</key>
+                    <string>16252</string>
+                    <key>attributeName</key>
+                    <string>Load</string>
+                    <key>isAction</key>
+                    <string>true</string>
+                </dict>
+                <key>modelId</key>
+                <string>16259</string>
+                <key>attributesCount</key>
+                <string>4</string>
+            </dict>
         </array>
     </dict>
 </plist>
