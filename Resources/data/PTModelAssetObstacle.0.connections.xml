@@ -50,6 +50,16 @@
                     <key>value</key>
                     <string>12586</string>
                 </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>20323</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>19919</string>
+                    <string>20086</string>
+                </array>
             </dict>
             <dict>
                 <key>id</key>
@@ -167,6 +177,16 @@
                     <key>value</key>
                     <string>14439</string>
                 </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>20616</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>20383</string>
+                    <string>20384</string>
+                </array>
             </dict>
             <dict>
                 <key>id</key>
@@ -184,6 +204,7 @@
                 <key>components</key>
                 <array>
                     <string>15594</string>
+                    <string>19917</string>
                 </array>
             </dict>
             <dict>
@@ -221,6 +242,11 @@
                     <key>value</key>
                     <string>17769</string>
                 </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>21014</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -229,6 +255,25 @@
                 <dict>
                     <key>value</key>
                     <string>17920</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>20664</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>20385</string>
+                    <string>20386</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19758</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>19760</string>
                 </dict>
             </dict>
         </array>

@@ -21,6 +21,13 @@
                 <dict>
                     <key>value</key>
                     <string>-1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Damage delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
             <dict>
@@ -125,6 +132,114 @@
                     <string>0</string>
                     <key>value</key>
                     <string>Damage</string>
+                </dict>
+                <key>Damage</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Damage delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19917</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
+                </dict>
+                <key>Damage</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Damage delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20086</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
+                </dict>
+                <key>Damage</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Damage delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20384</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
+                </dict>
+                <key>Damage</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Damage delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20386</string>
+                <key>className</key>
+                <string>PTModelComponentDamage</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Damage</string>
+                </dict>
+                <key>Damage</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Damage delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
         </array>

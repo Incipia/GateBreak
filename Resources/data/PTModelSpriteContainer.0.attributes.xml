@@ -787,21 +787,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>15911</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>PlayerOrbit</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>15927</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -1027,36 +1012,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>18393</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>PowerUp</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>18425</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>BGWhiteH</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>18657</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -1072,13 +1027,13 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>18666</string>
+                <string>19894</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GateBreakBB2_19</string>
+                    <string>InvinceOverlay</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -1087,13 +1042,13 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>18683</string>
+                <string>20338</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>LightSwitch</string>
+                    <string>HexTurq</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -1102,13 +1057,13 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>18694</string>
+                <string>20630</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>LightSwitch</string>
+                    <string>HexGreen</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -1117,28 +1072,13 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>18707</string>
+                <string>20678</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>LightSwitch</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>18719</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>LightSwitch</string>
+                    <string>PurpHex</string>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
