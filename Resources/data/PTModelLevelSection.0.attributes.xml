@@ -52,6 +52,702 @@
             </dict>
             <dict>
                 <key>id</key>
+                <string>19375</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Start</string>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>502.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18989</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Start</string>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>502.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19164</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PurpleBlast</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>4950.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19008</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Orange</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19125</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SpinnersBlast</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19094</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GreenTime</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19010</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>O2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>690.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19063</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlueGreenTime</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19012</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Yellow</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19032</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlueBlast</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19014</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Y2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>610.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19030</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Pi2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>740.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19028</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Pink</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19016</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Green</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19026</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Pp2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>710.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19018</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>G2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>640.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19024</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Purple</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19199</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Break</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>3060.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19020</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Blue</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19022</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>B2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>700.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>18987</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18604</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Orange</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19394</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Orange</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18879</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>O2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>690.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19396</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>O2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>690.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
                 <string>16261</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
@@ -62,29 +758,15 @@
                     <key>value</key>
                     <string>Start</string>
                 </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>502.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -97,13 +779,13 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>10579</string>
+                <string>18833</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>1</string>
+                    <string>Yellow</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -113,7 +795,7 @@
                 <key>Width</key>
                 <dict>
                     <key>value</key>
-                    <string>502.000000</string>
+                    <string>1.000000</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -123,6 +805,209 @@
                 <string>0</string>
                 <key>parentScreenId</key>
                 <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19398</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Yellow</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18881</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Y2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>610.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19400</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Y2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>610.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18835</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Green</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19402</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Green</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18883</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>G2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>640.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19404</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>G2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>640.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -155,13 +1040,13 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>15099</string>
+                <string>18837</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>2</string>
+                    <string>Blue</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -171,7 +1056,7 @@
                 <key>Width</key>
                 <dict>
                     <key>value</key>
-                    <string>502.000000</string>
+                    <string>1.000000</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -181,6 +1066,151 @@
                 <string>0</string>
                 <key>parentScreenId</key>
                 <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19406</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Blue</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18885</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>B2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>700.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19408</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>B2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>700.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18839</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Purple</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19410</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Purple</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -213,23 +1243,23 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>15050</string>
+                <string>18887</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>2</string>
+                    <string>Pp2</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>710.000000</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
-                    <string>502.000000</string>
+                    <string>1.000000</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -239,6 +1269,93 @@
                 <string>0</string>
                 <key>parentScreenId</key>
                 <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19412</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Pp2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>710.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18841</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Pink</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19414</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Pink</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -271,23 +1388,23 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>15199</string>
+                <string>18889</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>4</string>
+                    <string>Pi2</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>740.000000</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
-                    <string>502.000000</string>
+                    <string>1.000000</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -297,6 +1414,107 @@
                 <string>0</string>
                 <key>parentScreenId</key>
                 <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19416</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Pi2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>740.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15050</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlueBlast</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19418</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlueBlast</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -329,13 +1547,56 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>15600</string>
+                <string>10579</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>BeadShower</string>
+                    <string>BlueGreenTime</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19449</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlueGreenTime</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -354,7 +1615,7 @@
                 <key>initSection</key>
                 <string>0</string>
                 <key>parentScreenId</key>
-                <string>10573</string>
+                <string>19373</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -384,6 +1645,352 @@
                 <string>0</string>
                 <key>parentScreenId</key>
                 <string>16259</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15099</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GreenTime</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19480</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GreenTime</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15199</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SpinnersBlast</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19511</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SpinnersBlast</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17730</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PurpleBlast</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>4950.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19550</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PurpleBlast</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>4950.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19300</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PurpleTime</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>4950.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19585</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PurpleTime</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>4950.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15600</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Break</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>3060.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>10573</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19630</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Break</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>3060.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+                <key>parentScreenId</key>
+                <string>19373</string>
             </dict>
         </array>
     </dict>

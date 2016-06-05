@@ -474,7 +474,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{570.000,220.000}</string>
+                    <string>{570.000,160.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -569,24 +569,11 @@
                 <dict>
                     <key>value</key>
                     <string>{570.000,220.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.550,0.550}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -598,10 +585,81 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
+                <key>Asset</key>
                 <dict>
-                    <key>animations</key>
-                    <array/>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>500</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18990</string>
+                <key>className</key>
+                <string>PTModelObjectAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PlayerNew</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{570.000,160.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.550,0.550}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>500</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19376</string>
+                <key>className</key>
+                <string>PTModelObjectAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PlayerNew</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{570.000,160.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.550,0.550}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>

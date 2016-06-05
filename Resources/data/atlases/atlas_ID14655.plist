@@ -5,7 +5,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>PTModelSprite_ID15881</key>
+            <key>PTModelSprite_ID18426</key>
             <dict>
                 <key>frame</key>
                 <string>{{0, 0}, {1164, 504}}</string>
@@ -18,7 +18,7 @@
                 <key>sourceSize</key>
                 <string>{1164, 504}</string>
             </dict>
-            <key>PTModelSprite_ID15789</key>
+            <key>PTModelSprite_ID15881</key>
             <dict>
                 <key>frame</key>
                 <string>{{0, 508}, {1164, 504}}</string>
@@ -30,6 +30,45 @@
                 <string>{{0, 0}, {1164, 504}}</string>
                 <key>sourceSize</key>
                 <string>{1164, 504}</string>
+            </dict>
+            <key>PTModelSprite_ID15789</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0, 1016}, {1164, 504}}</string>
+                <key>offset</key>
+                <string>{0, -0}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{0, 0}, {1164, 504}}</string>
+                <key>sourceSize</key>
+                <string>{1164, 504}</string>
+            </dict>
+            <key>PTModelSprite_ID17814</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0, 1524}, {880, 134}}</string>
+                <key>offset</key>
+                <string>{0, -0}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{33, 213}, {880, 134}}</string>
+                <key>sourceSize</key>
+                <string>{946, 560}</string>
+            </dict>
+            <key>PTModelSprite_ID18720</key>
+            <dict>
+                <key>frame</key>
+                <string>{{884, 1524}, {1000, 30}}</string>
+                <key>offset</key>
+                <string>{0, -0}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{0, 0}, {1000, 30}}</string>
+                <key>sourceSize</key>
+                <string>{1000, 30}</string>
             </dict>
         </dict>
         <key>metadata</key>
