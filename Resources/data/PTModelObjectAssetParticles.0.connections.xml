@@ -324,6 +324,39 @@
                     </array>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>21332</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>21334</string>
+                    </array>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>21698</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>21700</string>
+                    </array>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>21702</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>21704</string>
+                    </array>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>
