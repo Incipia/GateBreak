@@ -523,11 +523,24 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,580.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -538,6 +551,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -621,11 +639,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -668,17 +690,32 @@
                 <key>Text</key>
                 <dict>
                     <key>value</key>
-                    <string>Absolute</string>
+                    <string>Arcade</string>
                 </dict>
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
                     <string>3166</string>
                 </dict>
+                <key>Tracking</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>zDepth</key>
                 <string>2</string>
                 <key>calculatedSize</key>
-                <string>{260.000,78.000}</string>
+                <string>{227.000,78.000}</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -717,11 +754,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -764,17 +805,32 @@
                 <key>Text</key>
                 <dict>
                     <key>value</key>
-                    <string>Relative</string>
+                    <string>Classic</string>
                 </dict>
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
                     <string>3166</string>
                 </dict>
+                <key>Tracking</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>zDepth</key>
                 <string>4</string>
                 <key>calculatedSize</key>
-                <string>{237.000,78.000}</string>
+                <string>{204.000,78.000}</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -813,11 +869,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -860,17 +920,32 @@
                 <key>Text</key>
                 <dict>
                     <key>value</key>
-                    <string>Control Select</string>
+                    <string>Game Mode Select</string>
                 </dict>
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
                     <string>3166</string>
                 </dict>
+                <key>Tracking</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>zDepth</key>
                 <string>3</string>
                 <key>calculatedSize</key>
-                <string>{414.000,78.000}</string>
+                <string>{580.000,78.000}</string>
             </dict>
         </array>
     </dict>

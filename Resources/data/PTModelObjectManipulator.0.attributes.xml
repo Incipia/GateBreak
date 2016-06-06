@@ -68,56 +68,6 @@
                 <key>zDepth</key>
                 <string>2</string>
             </dict>
-            <dict>
-                <key>id</key>
-                <string>16257</string>
-                <key>className</key>
-                <string>PTModelObjectManipulator</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Joystick Touch Area</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{570.000,320.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{11.867,6.836}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.500000</string>
-                </dict>
-                <key>Sensitivity</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.700000</string>
-                </dict>
-                <key>Control Style</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kControlStyleRelative</string>
-                </dict>
-                <key>zDepth</key>
-                <string>2</string>
-            </dict>
         </array>
     </dict>
 </plist>

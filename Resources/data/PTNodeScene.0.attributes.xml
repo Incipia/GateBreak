@@ -13,28 +13,44 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>World 1</string>
+                    <string>Arcade</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{125.000,-7.000}</string>
+                    <string>{79.000,24.000}</string>
                 </dict>
             </dict>
             <dict>
                 <key>id</key>
-                <string>21687</string>
+                <string>23145</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>World 1 Copy</string>
+                    <string>Classic</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{65.000,222.000}</string>
+                    <string>{77.000,212.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23746</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>ArcadeCopy</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{81.000,-62.000}</string>
                 </dict>
             </dict>
         </array>
