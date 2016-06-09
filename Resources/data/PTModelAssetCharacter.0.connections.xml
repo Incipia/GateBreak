@@ -157,6 +157,82 @@
                     <string>7889</string>
                 </array>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>27023</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27025</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28613</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27029</string>
+                    <string>27061</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27032</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27034</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28636</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27038</string>
+                    <string>27090</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27041</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27043</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28656</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27047</string>
+                    <string>27091</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27050</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27052</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28676</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27056</string>
+                    <string>27092</string>
+                </array>
+            </dict>
         </array>
     </dict>
 </plist>

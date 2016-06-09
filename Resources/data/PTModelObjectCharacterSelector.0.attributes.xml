@@ -62,10 +62,6 @@
                 <dict>
                     <key>value</key>
                     <string>{16.210,2.373}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -82,6 +78,11 @@
                     <key>value</key>
                     <string>0</string>
                 </dict>
+                <key>Label Vertical Spacing</key>
+                <dict>
+                    <key>value</key>
+                    <string>30.000000</string>
+                </dict>
                 <key>Label Name</key>
                 <dict>
                     <key>visible</key>
@@ -90,7 +91,7 @@
                     <string>2</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>13</string>
             </dict>
         </array>
     </dict>

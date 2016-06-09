@@ -113,9 +113,9 @@
                 <key>key</key>
                 <string>PTPScreenMainMenuUI</string>
                 <key>openFrames</key>
-                <string>40</string>
+                <string>90</string>
                 <key>idleFrames</key>
-                <string>40</string>
+                <string>90</string>
                 <key>closeFrames</key>
                 <string>0</string>
             </dict>
@@ -179,16 +179,6 @@
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
                 </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -199,7 +189,7 @@
                 <key>key</key>
                 <string>PTPScreenWorldsUI</string>
                 <key>openFrames</key>
-                <string>40</string>
+                <string>60</string>
                 <key>idleFrames</key>
                 <string>40</string>
                 <key>closeFrames</key>
@@ -303,16 +293,6 @@
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
                 </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -322,6 +302,82 @@
                 </dict>
                 <key>key</key>
                 <string>PTPScreenUi 1</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28243</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 2</string>
+                <key>openFrames</key>
+                <string>60</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28252</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 3</string>
                 <key>openFrames</key>
                 <string>40</string>
                 <key>idleFrames</key>
