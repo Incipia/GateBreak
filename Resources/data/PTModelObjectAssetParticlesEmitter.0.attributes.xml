@@ -1496,21 +1496,21 @@
                 <key>Total Particles</key>
                 <dict>
                     <key>value</key>
-                    <string>5000.000000</string>
+                    <string>4000.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Emission Rate</key>
                 <dict>
                     <key>value</key>
-                    <string>800.000000</string>
+                    <string>500.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Start Size</key>
                 <dict>
                     <key>value</key>
-                    <string>8.000000</string>
+                    <string>10.000000</string>
                     <key>variableValue</key>
                     <string>2.000000</string>
                     <key>animations</key>
@@ -1570,9 +1570,7 @@
                 <key>Life</key>
                 <dict>
                     <key>value</key>
-                    <string>5.000000</string>
-                    <key>variableValue</key>
-                    <string>0.250000</string>
+                    <string>7.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -4524,21 +4522,21 @@
                 <key>Total Particles</key>
                 <dict>
                     <key>value</key>
-                    <string>5000.000000</string>
+                    <string>4000.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Emission Rate</key>
                 <dict>
                     <key>value</key>
-                    <string>800.000000</string>
+                    <string>500.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Start Size</key>
                 <dict>
                     <key>value</key>
-                    <string>8.000000</string>
+                    <string>10.000000</string>
                     <key>variableValue</key>
                     <string>2.000000</string>
                     <key>animations</key>
@@ -4598,9 +4596,7 @@
                 <key>Life</key>
                 <dict>
                     <key>value</key>
-                    <string>5.000000</string>
-                    <key>variableValue</key>
-                    <string>0.250000</string>
+                    <string>7.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -5310,21 +5306,21 @@
                 <key>Total Particles</key>
                 <dict>
                     <key>value</key>
-                    <string>5000.000000</string>
+                    <string>3000.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Emission Rate</key>
                 <dict>
                     <key>value</key>
-                    <string>800.000000</string>
+                    <string>500.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Start Size</key>
                 <dict>
                     <key>value</key>
-                    <string>8.000000</string>
+                    <string>10.000000</string>
                     <key>variableValue</key>
                     <string>2.000000</string>
                     <key>animations</key>
@@ -5385,8 +5381,6 @@
                 <dict>
                     <key>value</key>
                     <string>5.000000</string>
-                    <key>variableValue</key>
-                    <string>0.250000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -5396,7 +5390,7 @@
                     <array>
                         <dict>
                             <key>pos</key>
-                            <string>0.000000</string>
+                            <string>1.000000</string>
                             <key>r</key>
                             <string>0.000000</string>
                             <key>g</key>
@@ -5408,7 +5402,7 @@
                         </dict>
                         <dict>
                             <key>pos</key>
-                            <string>1.000000</string>
+                            <string>0.000000</string>
                             <key>r</key>
                             <string>0.000000</string>
                             <key>g</key>
@@ -5426,7 +5420,7 @@
                     <array>
                         <dict>
                             <key>pos</key>
-                            <string>0.000000</string>
+                            <string>1.000000</string>
                             <key>r</key>
                             <string>0.000000</string>
                             <key>g</key>
@@ -5438,7 +5432,7 @@
                         </dict>
                         <dict>
                             <key>pos</key>
-                            <string>1.000000</string>
+                            <string>0.000000</string>
                             <key>r</key>
                             <string>0.000000</string>
                             <key>g</key>
