@@ -88,7 +88,7 @@
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>29654</string>
                 </dict>
                 <key>Tracking</key>
                 <dict>
@@ -111,7 +111,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,370.000}</string>
+                    <string>{400.000,370.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -159,7 +159,7 @@
                 <key>Score Type</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kScoreCoins</string>
+                    <string>kScorePoints</string>
                 </dict>
                 <key>Amount</key>
                 <dict>
@@ -169,7 +169,7 @@
                 <key>Alignment</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kCCTextAlignmentLeft</string>
+                    <string>kCCTextAlignmentCenter</string>
                 </dict>
                 <key>Text</key>
                 <dict>
@@ -181,7 +181,7 @@
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>29654</string>
                 </dict>
                 <key>Tracking</key>
                 <dict>
@@ -189,7 +189,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -204,7 +204,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{530.000,360.000}</string>
+                    <string>{730.000,370.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -252,7 +252,7 @@
                 <key>Score Type</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kScoreCoins</string>
+                    <string>kScorePoints</string>
                 </dict>
                 <key>Amount</key>
                 <dict>
@@ -262,7 +262,7 @@
                 <key>Alignment</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kCCTextAlignmentLeft</string>
+                    <string>kCCTextAlignmentCenter</string>
                 </dict>
                 <key>Text</key>
                 <dict>
@@ -274,7 +274,7 @@
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>29654</string>
                 </dict>
                 <key>Tracking</key>
                 <dict>
@@ -282,7 +282,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>9</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -597,7 +597,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{338.000,250.000}</string>
+                    <string>{566.000,270.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -611,7 +611,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.700,0.700}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -667,7 +667,7 @@
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>29654</string>
                 </dict>
                 <key>Tracking</key>
                 <dict>
@@ -675,7 +675,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -924,7 +924,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{530.000,440.000}</string>
+                    <string>{734.000,440.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -995,17 +995,17 @@
                 <key>Text</key>
                 <dict>
                     <key>value</key>
-                    <string>Best</string>
+                    <string>BEST</string>
                 </dict>
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>29654</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>4</string>
                 <key>calculatedSize</key>
-                <string>{122.000,78.000}</string>
+                <string>{134.000,75.000}</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1020,7 +1020,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{200.000,440.000}</string>
+                    <string>{400.000,440.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1091,17 +1091,17 @@
                 <key>Text</key>
                 <dict>
                     <key>value</key>
-                    <string>Score</string>
+                    <string>SCORE</string>
                 </dict>
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>29654</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>6</string>
                 <key>calculatedSize</key>
-                <string>{169.000,78.000}</string>
+                <string>{192.000,75.000}</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1116,7 +1116,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{339.000,310.000}</string>
+                    <string>{568.000,330.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1130,7 +1130,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.700,0.700}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1187,17 +1187,113 @@
                 <key>Text</key>
                 <dict>
                     <key>value</key>
-                    <string>Gates</string>
+                    <string>GATES</string>
                 </dict>
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>29654</string>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>5</string>
                 <key>calculatedSize</key>
-                <string>{180.000,78.000}</string>
+                <string>{179.000,75.000}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>29515</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Cent Goth</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{568.000,115.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreDistance</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreBest</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>PLAY AGAIN</string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>29654</string>
+                </dict>
+                <key>zDepth</key>
+                <string>17</string>
+                <key>calculatedSize</key>
+                <string>{331.000,75.000}</string>
             </dict>
         </array>
     </dict>

@@ -72,15 +72,24 @@
                     <key>value</key>
                     <string>Health</string>
                 </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Health</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Lives</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
             <dict>
@@ -95,15 +104,24 @@
                     <key>value</key>
                     <string>Health</string>
                 </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Health</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Lives</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
             <dict>
@@ -118,15 +136,24 @@
                     <key>value</key>
                     <string>Health</string>
                 </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Health</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Lives</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
             <dict>
@@ -141,15 +168,344 @@
                     <key>value</key>
                     <string>Health</string>
                 </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Health</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Lives</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>29952</string>
+                <key>className</key>
+                <string>PTModelComponentHealth</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Health</string>
+                </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Health</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Lives</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>29972</string>
+                <key>className</key>
+                <string>PTModelComponentHealth</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Health</string>
+                </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Health</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Lives</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>30309</string>
+                <key>className</key>
+                <string>PTModelComponentHealth</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Health</string>
+                </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Health</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Lives</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>30312</string>
+                <key>className</key>
+                <string>PTModelComponentHealth</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Health</string>
+                </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Health</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Lives</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>30584</string>
+                <key>className</key>
+                <string>PTModelComponentHealth</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Health</string>
+                </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Health</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Lives</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>30629</string>
+                <key>className</key>
+                <string>PTModelComponentHealth</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Health</string>
+                </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Health</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Lives</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>31056</string>
+                <key>className</key>
+                <string>PTModelComponentHealth</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Health</string>
+                </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Health</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Lives</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>31070</string>
+                <key>className</key>
+                <string>PTModelComponentHealth</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Health</string>
+                </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Health</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Lives</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>31441</string>
+                <key>className</key>
+                <string>PTModelComponentHealth</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Health</string>
+                </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Health</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Lives</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>31443</string>
+                <key>className</key>
+                <string>PTModelComponentHealth</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Health</string>
+                </dict>
+                <key>Death Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Health</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Lives</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
         </array>

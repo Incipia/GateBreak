@@ -56,12 +56,16 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{340.000,187.000}</string>
+                    <string>{568.000,210.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{16.210,2.373}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -81,7 +85,7 @@
                 <key>Label Vertical Spacing</key>
                 <dict>
                     <key>value</key>
-                    <string>30.000000</string>
+                    <string>15.000000</string>
                 </dict>
                 <key>Label Name</key>
                 <dict>
@@ -91,7 +95,7 @@
                     <string>2</string>
                 </dict>
                 <key>zDepth</key>
-                <string>13</string>
+                <string>16</string>
             </dict>
         </array>
     </dict>

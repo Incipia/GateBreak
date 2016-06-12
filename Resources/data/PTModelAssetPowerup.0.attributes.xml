@@ -62,6 +62,8 @@
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Show coin reward</key>
                 <dict>
@@ -72,6 +74,8 @@
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Show points reward</key>
                 <dict>
@@ -82,11 +86,25 @@
                 <dict>
                     <key>value</key>
                     <string>3.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Appearance Chanсe</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>0.300000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Gameplay properties</key>
                 <dict>
@@ -99,6 +117,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{39.999,39.999}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Gravity</key>
                 <dict>
@@ -106,6 +128,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Force</key>
                 <dict>
@@ -113,11 +139,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Counter</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Jump Timeout</key>
                 <dict>
@@ -125,6 +157,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>0.250000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Jump From Ground</key>
                 <dict>
@@ -135,11 +169,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Left Lean Force</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Speed Min</key>
                 <dict>
@@ -147,6 +185,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>70.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Speed Max</key>
                 <dict>
@@ -154,16 +194,22 @@
                     <string>0</string>
                     <key>value</key>
                     <string>70.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Speed Increase</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Friction</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Time Warp</key>
                 <dict>
@@ -171,6 +217,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Velocity Drag</key>
                 <dict>
@@ -178,11 +226,15 @@
                     <string>0</string>
                     <key>value</key>
                     <string>100.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Rotation Drag</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Bounce Force</key>
                 <dict>
@@ -190,11 +242,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,100.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Bounce</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Score Multiplier</key>
                 <dict>
@@ -202,6 +260,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Air Drag</key>
                 <dict>
@@ -209,11 +269,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Platform Friction</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Direction</key>
                 <dict>
@@ -221,6 +287,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>-90.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
             <dict>
@@ -279,7 +347,9 @@
                 <key>Reward Coins</key>
                 <dict>
                     <key>value</key>
-                    <string>3.000000</string>
+                    <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Show coin reward</key>
                 <dict>
@@ -290,6 +360,8 @@
                 <dict>
                     <key>value</key>
                     <string>3.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Show points reward</key>
                 <dict>
@@ -300,11 +372,25 @@
                 <dict>
                     <key>value</key>
                     <string>0.200000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Appearance Chanсe</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>0.300000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Gameplay properties</key>
                 <dict>
@@ -317,6 +403,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{39.999,39.999}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Gravity</key>
                 <dict>
@@ -324,6 +414,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Force</key>
                 <dict>
@@ -331,11 +425,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Counter</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Jump Timeout</key>
                 <dict>
@@ -343,6 +443,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>0.250000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Jump From Ground</key>
                 <dict>
@@ -353,11 +455,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Left Lean Force</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Speed Min</key>
                 <dict>
@@ -365,6 +471,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>70.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Speed Max</key>
                 <dict>
@@ -372,16 +480,22 @@
                     <string>0</string>
                     <key>value</key>
                     <string>70.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Speed Increase</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Friction</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Time Warp</key>
                 <dict>
@@ -389,6 +503,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Velocity Drag</key>
                 <dict>
@@ -396,11 +512,15 @@
                     <string>0</string>
                     <key>value</key>
                     <string>100.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Rotation Drag</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Bounce Force</key>
                 <dict>
@@ -408,11 +528,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,100.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Bounce</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Score Multiplier</key>
                 <dict>
@@ -420,6 +546,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Air Drag</key>
                 <dict>
@@ -427,11 +555,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Platform Friction</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Direction</key>
                 <dict>
@@ -439,6 +573,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>-90.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
             <dict>
@@ -497,7 +633,9 @@
                 <key>Reward Coins</key>
                 <dict>
                     <key>value</key>
-                    <string>5.000000</string>
+                    <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Show coin reward</key>
                 <dict>
@@ -508,16 +646,35 @@
                 <dict>
                     <key>value</key>
                     <string>5.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Show points reward</key>
                 <dict>
                     <key>value</key>
                     <string>0</string>
                 </dict>
+                <key>Duration</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Appearance Chanсe</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>0.300000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Gameplay properties</key>
                 <dict>
@@ -530,6 +687,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{39.999,39.999}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Gravity</key>
                 <dict>
@@ -537,6 +698,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Force</key>
                 <dict>
@@ -544,11 +709,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Counter</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Jump Timeout</key>
                 <dict>
@@ -556,6 +727,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>0.250000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Jump From Ground</key>
                 <dict>
@@ -566,11 +739,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Left Lean Force</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Speed Min</key>
                 <dict>
@@ -578,6 +755,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>70.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Speed Max</key>
                 <dict>
@@ -585,6 +764,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>150.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Speed Increase</key>
                 <dict>
@@ -592,11 +773,15 @@
                     <string>0</string>
                     <key>value</key>
                     <string>0.010000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Friction</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Time Warp</key>
                 <dict>
@@ -604,6 +789,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Velocity Drag</key>
                 <dict>
@@ -611,11 +798,15 @@
                     <string>0</string>
                     <key>value</key>
                     <string>100.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Rotation Drag</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Bounce Force</key>
                 <dict>
@@ -623,6 +814,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,100.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Bounce</key>
                 <dict>
@@ -630,6 +825,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Score Multiplier</key>
                 <dict>
@@ -637,6 +834,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Air Drag</key>
                 <dict>
@@ -644,11 +843,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Platform Friction</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Direction</key>
                 <dict>
@@ -656,6 +861,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>-90.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
             <dict>
@@ -714,7 +921,9 @@
                 <key>Reward Coins</key>
                 <dict>
                     <key>value</key>
-                    <string>7.000000</string>
+                    <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Show coin reward</key>
                 <dict>
@@ -725,6 +934,8 @@
                 <dict>
                     <key>value</key>
                     <string>7.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Show points reward</key>
                 <dict>
@@ -735,11 +946,25 @@
                 <dict>
                     <key>value</key>
                     <string>0.200000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Appearance Chanсe</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>0.300000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Gameplay properties</key>
                 <dict>
@@ -752,6 +977,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{39.999,39.999}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Gravity</key>
                 <dict>
@@ -759,6 +988,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Force</key>
                 <dict>
@@ -766,11 +999,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Counter</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Jump Timeout</key>
                 <dict>
@@ -778,6 +1017,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>0.250000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Jump From Ground</key>
                 <dict>
@@ -788,11 +1029,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Left Lean Force</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Speed Min</key>
                 <dict>
@@ -800,6 +1045,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>70.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Speed Max</key>
                 <dict>
@@ -807,6 +1054,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>150.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Speed Increase</key>
                 <dict>
@@ -814,11 +1063,15 @@
                     <string>0</string>
                     <key>value</key>
                     <string>0.010000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Friction</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Time Warp</key>
                 <dict>
@@ -826,6 +1079,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Velocity Drag</key>
                 <dict>
@@ -833,11 +1088,15 @@
                     <string>0</string>
                     <key>value</key>
                     <string>100.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Rotation Drag</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Bounce Force</key>
                 <dict>
@@ -845,6 +1104,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,100.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Bounce</key>
                 <dict>
@@ -852,6 +1115,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Score Multiplier</key>
                 <dict>
@@ -859,6 +1124,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Air Drag</key>
                 <dict>
@@ -866,11 +1133,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Platform Friction</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Direction</key>
                 <dict>
@@ -878,6 +1151,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>-90.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
             <dict>
@@ -931,15 +1206,37 @@
                     <key>selectedStringValue</key>
                     <string>kLoopedAnimation</string>
                 </dict>
+                <key>Reward Coins</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Reward Points</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Duration</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Appearance Chanсe</key>
                 <dict>
-                    <key>value</key>
-                    <string>15.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>0.400000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Gameplay properties</key>
                 <dict>
@@ -952,6 +1249,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{39.999,39.999}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Gravity</key>
                 <dict>
@@ -959,6 +1260,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Force</key>
                 <dict>
@@ -966,11 +1271,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Counter</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Jump Timeout</key>
                 <dict>
@@ -978,6 +1289,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>0.250000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Jump From Ground</key>
                 <dict>
@@ -988,11 +1301,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Left Lean Force</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Speed Min</key>
                 <dict>
@@ -1000,6 +1317,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>70.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Speed Max</key>
                 <dict>
@@ -1007,16 +1326,22 @@
                     <string>0</string>
                     <key>value</key>
                     <string>70.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Speed Increase</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Friction</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Time Warp</key>
                 <dict>
@@ -1024,6 +1349,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Velocity Drag</key>
                 <dict>
@@ -1031,11 +1358,15 @@
                     <string>0</string>
                     <key>value</key>
                     <string>100.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Rotation Drag</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Bounce Force</key>
                 <dict>
@@ -1043,6 +1374,10 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,100.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Bounce</key>
                 <dict>
@@ -1050,6 +1385,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Score Multiplier</key>
                 <dict>
@@ -1057,6 +1394,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Air Drag</key>
                 <dict>
@@ -1064,11 +1403,17 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Platform Friction</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Game Direction</key>
                 <dict>
@@ -1076,6 +1421,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>-90.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
             <dict>
