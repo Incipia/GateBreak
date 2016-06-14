@@ -18,7 +18,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{80.000,570.000}</string>
+                    <string>{90.000,560.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -32,7 +32,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.400,0.400}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -42,13 +42,27 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
                 <dict>
                     <key>animations</key>
                     <array/>
@@ -71,6 +85,11 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string></string>
+                </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>
@@ -263,7 +282,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.250,0.250}</string>
+                    <string>{0.300,0.300}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -364,7 +383,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.250,0.250}</string>
+                    <string>{0.300,0.300}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -374,13 +393,27 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
                 <dict>
                     <key>animations</key>
                     <array/>
@@ -403,6 +436,11 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string></string>
+                </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>
@@ -432,22 +470,56 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{907.500,100.000}</string>
+                    <string>{90.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>180.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.400,0.400}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -468,65 +540,10 @@
                     <key>selectedStringValue</key>
                     <string></string>
                 </dict>
-                <key>Keyboard Key</key>
+                <key>Block Touch</key>
                 <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>149</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>World Select</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{907.500,230.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBackToButton</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>
@@ -537,66 +554,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>152</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Main Menu</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{907.500,360.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBackToButton</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>
@@ -688,7 +647,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>10</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -773,7 +732,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>11</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -860,7 +819,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.250,0.250}</string>
+                    <string>{0.300,0.300}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -870,13 +829,27 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
                 <dict>
                     <key>animations</key>
                     <array/>
@@ -897,6 +870,11 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string></string>
+                </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>
@@ -1661,7 +1639,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.250,0.250}</string>
+                    <string>{0.300,0.300}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1920,22 +1898,54 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{568.000,92.000}</string>
+                    <string>{90.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.300,0.300}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -1954,6 +1964,11 @@
                     <key>selectedStringValue</key>
                     <string></string>
                 </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Keyboard Key</key>
                 <dict>
                     <key>value</key>
@@ -1963,6 +1978,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>9</string>
@@ -1981,11 +1998,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-140.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1996,6 +2026,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2048,11 +2083,24 @@
                 <dict>
                     <key>value</key>
                     <string>{840.000,-120.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2063,6 +2111,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2190,7 +2243,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.250,0.250}</string>
+                    <string>{0.300,0.300}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -2248,7 +2301,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>13</string>
+                <string>12</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2339,7 +2392,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.250,0.250}</string>
+                    <string>{0.300,0.300}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -2397,7 +2450,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>14</string>
+                <string>15</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2488,7 +2541,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.250,0.250}</string>
+                    <string>{0.300,0.300}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -2546,7 +2599,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>15</string>
+                <string>13</string>
             </dict>
             <dict>
                 <key>id</key>

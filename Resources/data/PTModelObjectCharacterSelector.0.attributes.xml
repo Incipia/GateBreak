@@ -80,15 +80,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -99,15 +95,11 @@
                 <dict>
                     <key>value</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Vertical Spacing</key>
                 <dict>
                     <key>value</key>
                     <string>15.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Name</key>
                 <dict>
@@ -116,13 +108,8 @@
                     <key>selectedStringValue</key>
                     <string>2</string>
                 </dict>
-                <key>Spread</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
-                <string>16</string>
+                <string>10</string>
             </dict>
         </array>
     </dict>

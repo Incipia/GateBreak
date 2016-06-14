@@ -40,11 +40,25 @@
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -55,6 +69,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -188,25 +204,11 @@
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Fall Attribute</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -217,8 +219,6 @@
                 <dict>
                     <key>value</key>
                     <string>200.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -270,25 +270,11 @@
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Fall Attribute</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -299,8 +285,6 @@
                 <dict>
                     <key>value</key>
                     <string>200.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -352,25 +336,11 @@
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Fall Attribute</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -381,8 +351,6 @@
                 <dict>
                     <key>value</key>
                     <string>200.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -434,25 +402,11 @@
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Fall Attribute</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -463,8 +417,6 @@
                 <dict>
                     <key>value</key>
                     <string>200.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -587,7 +539,7 @@
                     <key>points</key>
                     <array>
                         <string>{0.000000,0.000000}</string>
-                        <string>{25.000000,0.000000}</string>
+                        <string>{24.000000,1.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -682,25 +634,11 @@
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Fall Attribute</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -711,8 +649,6 @@
                 <dict>
                     <key>value</key>
                     <string>500.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -766,25 +702,11 @@
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Fall Attribute</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -795,8 +717,6 @@
                 <dict>
                     <key>value</key>
                     <string>500.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -963,6 +883,88 @@
                 <dict>
                     <key>value</key>
                     <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>33079</string>
+                <key>className</key>
+                <string>PTModelAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>RainbowGem</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>33086</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{0.000000,0.000000}</string>
+                        <string>{23.000000,0.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+                <key>Game Over Delay</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Shake</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInGameCurrency</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
