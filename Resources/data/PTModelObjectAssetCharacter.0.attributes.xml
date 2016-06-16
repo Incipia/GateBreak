@@ -721,24 +721,11 @@
                 <dict>
                     <key>value</key>
                     <string>{570.000,160.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.550,0.550}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -749,11 +736,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -852,7 +834,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{570.000,160.000}</string>
+                    <string>{570.000,120.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -866,7 +848,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.550,0.550}</string>
+                    <string>{1.015,1.015}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -884,6 +866,8 @@
                 </dict>
                 <key>Opacity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -908,7 +892,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{570.000,160.000}</string>
+                    <string>{570.000,151.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>

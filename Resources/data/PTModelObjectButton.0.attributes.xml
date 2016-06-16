@@ -32,7 +32,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{1.330,1.330}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -100,7 +100,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{568.000,170.000}</string>
+                    <string>{570.000,550.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -182,17 +182,22 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
                 <dict>
                     <key>animations</key>
                     <array/>
@@ -201,6 +206,8 @@
                 <dict>
                     <key>value</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -220,6 +227,11 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string></string>
+                </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>
@@ -263,7 +275,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.947,0.947}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -273,27 +285,13 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
                 <dict>
                     <key>animations</key>
                     <array/>
@@ -316,11 +314,6 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string></string>
-                </dict>
-                <key>Block Touch</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>
@@ -364,7 +357,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -417,7 +410,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -440,15 +433,13 @@
                 </dict>
                 <key>Rotation</key>
                 <dict>
-                    <key>value</key>
-                    <string>180.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{1.049,1.049}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -463,11 +454,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -497,11 +483,9 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>0</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -619,7 +603,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{1.200,1.200}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -675,7 +659,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>17</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -762,7 +746,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{1.047,1.047}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1315,7 +1299,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.855,0.855}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1405,13 +1389,22 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
                 <dict>
                     <key>animations</key>
                     <array/>
@@ -1420,6 +1413,8 @@
                 <dict>
                     <key>value</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -1439,6 +1434,11 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string></string>
+                </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>
@@ -1482,7 +1482,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{9.291,1.724}</string>
+                    <string>{8.091,1.724}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1749,7 +1749,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{900.000,565.000}</string>
+                    <string>{875.000,560.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1763,7 +1763,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.900,0.900}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1821,7 +1821,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>12</string>
+                <string>15</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1836,7 +1836,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{230.000,565.000}</string>
+                    <string>{265.000,557.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1850,7 +1850,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.900,0.900}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1908,7 +1908,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>15</string>
+                <string>19</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1923,7 +1923,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{734.000,565.000}</string>
+                    <string>{723.000,560.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1937,7 +1937,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.900,0.900}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1995,7 +1995,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>13</string>
+                <string>16</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2086,7 +2086,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{1.079,1.079}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -2226,7 +2226,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.988,0.988}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -2277,7 +2277,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2683,7 +2683,7 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2784,22 +2784,13 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
                 <dict>
                     <key>animations</key>
                     <array/>
@@ -2808,8 +2799,6 @@
                 <dict>
                     <key>value</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -2829,11 +2818,6 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string></string>
-                </dict>
-                <key>Block Touch</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>

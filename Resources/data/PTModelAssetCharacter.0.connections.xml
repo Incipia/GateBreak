@@ -235,6 +235,63 @@
             </dict>
             <dict>
                 <key>id</key>
+                <string>35650</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>35652</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>35727</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>35656</string>
+                    <string>35819</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35659</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>35661</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>35747</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>35665</string>
+                    <string>35820</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35668</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>35670</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>35767</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>35674</string>
+                    <string>35821</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
                 <string>33079</string>
                 <key>Default Animation</key>
                 <dict>

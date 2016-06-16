@@ -30,24 +30,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>14735</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>14818</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
@@ -338,29 +320,6 @@
             <dict>
                 <key>id</key>
                 <string>22544</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>22720</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
                 <key>Name</key>
@@ -1919,29 +1878,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30099</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30103</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
@@ -2195,29 +2131,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30179</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30183</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
@@ -2448,29 +2361,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30393</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30397</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
@@ -2632,29 +2522,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30469</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30473</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
@@ -2738,70 +2605,6 @@
                 <dict>
                     <key>value</key>
                     <string>1000.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30652</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30659</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30660</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -2949,29 +2752,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30702</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30708</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
@@ -3018,122 +2798,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30738</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30745</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30746</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30752</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30756</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30830</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
                 <key>Name</key>
@@ -3179,53 +2844,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30838</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30842</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30846</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
                 <key>Name</key>
@@ -3271,29 +2890,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30854</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30858</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
@@ -3317,53 +2913,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30862</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30866</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30870</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
                 <key>Name</key>
@@ -3432,53 +2982,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30884</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30888</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30892</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
                 <key>Name</key>
@@ -3524,145 +3028,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30900</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30904</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30908</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30912</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30916</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30920</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30924</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
                 <key>Name</key>
@@ -3731,53 +3097,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30938</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30942</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30946</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
                 <key>Name</key>
@@ -3823,53 +3143,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30954</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30958</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30962</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
                 <key>Name</key>
@@ -3915,53 +3189,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>30970</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>30974</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>30980</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
                 <key>Name</key>
@@ -4192,29 +3420,6 @@
             <dict>
                 <key>id</key>
                 <string>31147</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>31151</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
                 <key>Name</key>
@@ -4490,29 +3695,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>31289</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>31303</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
@@ -4605,29 +3787,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>31349</string>
-                <key>className</key>
-                <string>PTModelComponentSpawner</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>value</key>
-                    <string>100.000000</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>31460</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
@@ -4642,8 +3801,6 @@
                 <dict>
                     <key>value</key>
                     <string>100.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -4667,8 +3824,6 @@
                 <dict>
                     <key>value</key>
                     <string>100.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -4692,8 +3847,6 @@
                 <dict>
                     <key>value</key>
                     <string>100.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -5154,8 +4307,6 @@
                 <dict>
                     <key>value</key>
                     <string>100.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -5179,8 +4330,6 @@
                 <dict>
                     <key>value</key>
                     <string>100.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -5204,8 +4353,6 @@
                 <dict>
                     <key>value</key>
                     <string>100.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -6412,6 +5559,52 @@
             <dict>
                 <key>id</key>
                 <string>33629</string>
+                <key>className</key>
+                <string>PTModelComponentSpawner</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Spawner</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>100.000000</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35928</string>
+                <key>className</key>
+                <string>PTModelComponentSpawner</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Spawner</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>100.000000</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35938</string>
                 <key>className</key>
                 <string>PTModelComponentSpawner</string>
                 <key>Name</key>
