@@ -65,16 +65,6 @@
                     <key>selectedStringValue</key>
                     <string>kAdMob</string>
                 </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -112,16 +102,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
-                </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -209,16 +189,6 @@
                     <key>selectedStringValue</key>
                     <string>kAdMob</string>
                 </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -256,16 +226,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kAdMob</string>
-                </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -335,44 +295,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>16253</string>
-                <key>className</key>
-                <string>PTModelScreen</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Untitled</string>
-                </dict>
-                <key>Ad Interstitial</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAds</string>
-                </dict>
-                <key>Ad Banner</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAds</string>
-                </dict>
-                <key>Background Scene</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kNoBackground</string>
-                </dict>
-                <key>key</key>
-                <string>PTPScreenUi 1</string>
-                <key>openFrames</key>
-                <string>40</string>
-                <key>idleFrames</key>
-                <string>40</string>
-                <key>closeFrames</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>28243</string>
                 <key>className</key>
                 <string>PTModelScreen</string>
@@ -421,7 +343,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>28252</string>
+                <string>33977</string>
                 <key>className</key>
                 <string>PTModelScreen</string>
                 <key>Name</key>
@@ -439,7 +361,45 @@
                 <key>Ad Banner</key>
                 <dict>
                     <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 1</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>33983</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
                     <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
                 </dict>
                 <key>Ad Interstitials Freq.</key>
                 <dict>
@@ -459,9 +419,9 @@
                     <string>kNoBackground</string>
                 </dict>
                 <key>key</key>
-                <string>PTPScreenUi 3</string>
+                <string>PTPScreenUi 4</string>
                 <key>openFrames</key>
-                <string>40</string>
+                <string>60</string>
                 <key>idleFrames</key>
                 <string>40</string>
                 <key>closeFrames</key>

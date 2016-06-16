@@ -49,6 +49,8 @@ public:
 
     virtual void pressHilightedButton();
     virtual void hilightButton(int direction);
+    virtual void hilightDefaultButton();
+
 
     virtual void deleteObject(PTModelObject *model);
     void hideAds();

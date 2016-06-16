@@ -39,22 +39,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>23746</string>
-                <key>className</key>
-                <string>PTNodeScene</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>ArcadeCopy</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{191.000,65.000}</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>27158</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
@@ -67,6 +51,38 @@
                 <dict>
                     <key>value</key>
                     <string>{-307.000,-99.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>33992</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Arcade</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{183.000,45.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>34742</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Classic</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{181.000,182.000}</string>
                 </dict>
             </dict>
         </array>

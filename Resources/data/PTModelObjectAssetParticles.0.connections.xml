@@ -423,6 +423,28 @@
                     </array>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>34003</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>34005</string>
+                    </array>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>34753</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>34755</string>
+                    </array>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

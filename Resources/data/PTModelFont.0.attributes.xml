@@ -18,7 +18,7 @@
                 <key>Font name</key>
                 <dict>
                     <key>value</key>
-                    <string>Gill Sans</string>
+                    <string>Aldrich</string>
                 </dict>
                 <key>Font size</key>
                 <dict>
@@ -26,47 +26,30 @@
                     <string>40.000000</string>
                     <key>variableValue</key>
                     <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Shadow Offset</key>
                 <dict>
                     <key>value</key>
                     <string>{3.000,3.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Canvas size</key>
                 <dict>
                     <key>value</key>
                     <string>{512.000,512.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Padding</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Stroke Width</key>
                 <dict>
                     <key>value</key>
                     <string>1.500000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Main Color</key>
                 <dict>
                     <key>r</key>
-                    <string>25.000000</string>
+                    <string>0.000000</string>
                     <key>g</key>
-                    <string>25.000000</string>
+                    <string>0.000000</string>
                     <key>b</key>
-                    <string>25.000000</string>
+                    <string>0.000000</string>
                     <key>a</key>
                     <string>255.000000</string>
                 </dict>
@@ -389,47 +372,27 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GilSans</string>
+                    <string>Aldrich</string>
                 </dict>
                 <key>Font name</key>
                 <dict>
                     <key>value</key>
-                    <string>Gill Sans</string>
-                </dict>
-                <key>Font size</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>Aldrich</string>
                 </dict>
                 <key>Shadow Offset</key>
                 <dict>
                     <key>value</key>
                     <string>{4.000,4.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Canvas size</key>
                 <dict>
                     <key>value</key>
                     <string>{512.000,512.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Padding</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Stroke Width</key>
                 <dict>
                     <key>value</key>
                     <string>2.500000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Main Color</key>
                 <dict>
@@ -489,45 +452,22 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Gil Sans White</string>
+                    <string>Aldrich White</string>
                 </dict>
                 <key>Font name</key>
                 <dict>
                     <key>value</key>
-                    <string>Gill Sans</string>
-                </dict>
-                <key>Font size</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>Aldrich</string>
                 </dict>
                 <key>Shadow Offset</key>
                 <dict>
                     <key>value</key>
                     <string>{3.000,-3.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Canvas size</key>
                 <dict>
                     <key>value</key>
                     <string>{512.000,512.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Padding</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stroke Width</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Main Color</key>
                 <dict>

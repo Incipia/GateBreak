@@ -78,6 +78,8 @@ public:
     void toggleUpdateObjects(bool state, bool updateObjects = true);
     inline bool isUpdateObjectsEnabled() const { return _updateObjectsState; }
 
+    void removeInvalidObjects();
+
     //QT specific part
 #ifdef __QT__
     static QString rootTempDirPath();

@@ -55,7 +55,7 @@ struct PTJointMotorStruct{
     PTModelLinker* linker;
 };
 
-class PTPInputController: public CCObject{
+class PTPInputController: public CCObject, public CCKeypadDelegate{
 
 public:
     PTPInputController();
@@ -64,6 +64,12 @@ public:
     static void destroy();
 
     void clear();
+
+    ////////////////////////////////////
+    virtual void keyBackClicked();
+    virtual void onKeyDown( int keyCode );
+    virtual void onKeyUp( int keyCode );
+    //////////////
 
     void keyPressed( PTPInputControllerKey key);
     void keyReleased( PTPInputControllerKey key);
@@ -143,6 +149,7 @@ public:
     void actionUnSubscribe( CCObject* target);
 
     void broadcastAction(PTPInputControllerAction actionId, unsigned int senderId);
+
 
 private:
     void actionBegin(PTPInputControllerAction actionId, CCObject* sender = NULL);

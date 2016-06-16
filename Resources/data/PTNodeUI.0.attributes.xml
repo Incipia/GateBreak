@@ -103,22 +103,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>16252</string>
-                <key>className</key>
-                <string>PTNodeUI</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Accelerometer</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{434.000,47.000}</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>28242</string>
                 <key>className</key>
                 <string>PTNodeUI</string>
@@ -135,7 +119,23 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>28251</string>
+                <string>33976</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Tilt UI Abs</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{420.000,56.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>33982</string>
                 <key>className</key>
                 <string>PTNodeUI</string>
                 <key>Name</key>
@@ -146,7 +146,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{-51.000,112.000}</string>
+                    <string>{-51.000,136.000}</string>
                 </dict>
             </dict>
         </array>
