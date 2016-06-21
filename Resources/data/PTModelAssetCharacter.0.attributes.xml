@@ -36,15 +36,34 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -55,6 +74,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -109,25 +130,48 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
+                    <string>kFree</string>
                 </dict>
                 <key>Price</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>200.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -182,25 +226,48 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
+                    <string>kFree</string>
                 </dict>
                 <key>Price</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>200.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -255,25 +322,48 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
+                    <string>kFree</string>
                 </dict>
                 <key>Price</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>200.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -328,25 +418,48 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
+                    <string>kFree</string>
                 </dict>
                 <key>Price</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>200.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -401,25 +514,48 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
+                    <string>kFree</string>
                 </dict>
                 <key>Price</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>200.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -474,25 +610,48 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
+                    <string>kFree</string>
                 </dict>
                 <key>Price</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>200.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -547,25 +706,48 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
+                    <string>kFree</string>
                 </dict>
                 <key>Price</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>200.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -620,25 +802,142 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
+                    <string>kFree</string>
                 </dict>
                 <key>Price</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Web Link</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>38241</string>
+                <key>className</key>
+                <string>PTModelAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>WhiteGreen</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>38257</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{0.000000,0.000000}</string>
+                        <string>{23.000000,0.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Over Delay</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Shake</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kFree</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -693,25 +992,48 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
+                    <string>kFree</string>
                 </dict>
                 <key>Price</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -766,25 +1088,48 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
+                    <string>kFree</string>
                 </dict>
                 <key>Price</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -839,88 +1184,34 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
-                <key>Game Over Delay</key>
+                <key>Cast Shadow</key>
                 <dict>
                     <key>value</key>
-                    <string>0.500000</string>
-                </dict>
-                <key>Camera Shake</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                </dict>
-                <key>Purchase Method</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
-                </dict>
-                <key>Price</key>
-                <dict>
-                    <key>value</key>
-                    <string>500.000000</string>
-                </dict>
-                <key>Store Identifier</key>
-                <dict>
-                    <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string></string>
-                </dict>
-                <key>Web Link</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string></string>
-                </dict>
-                <key>Ad Network</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kHeyzap</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>35650</string>
-                <key>className</key>
-                <string>PTModelAssetCharacter</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>RedOrange</string>
-                </dict>
-                <key>Collision Shape</key>
-                <dict>
-                    <key>id</key>
-                    <string>35675</string>
-                    <key>className</key>
-                    <string>PTModelCircle</string>
-                    <key>Name</key>
-                    <dict>
-                        <key>value</key>
-                        <string></string>
-                    </dict>
-                    <key>points</key>
-                    <array>
-                        <string>{0.000000,0.000000}</string>
-                        <string>{23.000000,0.000000}</string>
-                    </array>
-                    <key>oneWayCollisionVector</key>
-                    <string>{0.000000,0.000000}</string>
-                    <key>shapeType</key>
-                    <string>2</string>
                 </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -931,6 +1222,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -985,15 +1280,34 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -1004,6 +1318,102 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Web Link</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35650</string>
+                <key>className</key>
+                <string>PTModelAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>RedOrange</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>35675</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{0.000000,0.000000}</string>
+                        <string>{23.000000,0.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Over Delay</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Shake</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kFree</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -1058,15 +1468,34 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -1077,6 +1506,102 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Web Link</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>38250</string>
+                <key>className</key>
+                <string>PTModelAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>OrangeBlack</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>38258</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{0.000000,0.000000}</string>
+                        <string>{23.000000,0.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Over Delay</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Shake</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kFree</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
@@ -1131,25 +1656,46 @@
                     <key>shapeType</key>
                     <string>2</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
+                    <string>kFree</string>
                 </dict>
                 <key>Price</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>

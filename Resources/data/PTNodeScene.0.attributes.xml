@@ -45,12 +45,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>MainMenu</string>
+                    <string>MainMenuSong</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{-307.000,-99.000}</string>
+                    <string>{-304.000,-336.000}</string>
                 </dict>
             </dict>
             <dict>
@@ -83,6 +83,22 @@
                 <dict>
                     <key>value</key>
                     <string>{181.000,182.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>38103</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>MainMenuWorld</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-380.000,-109.000}</string>
                 </dict>
             </dict>
         </array>

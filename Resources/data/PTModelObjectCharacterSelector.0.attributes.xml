@@ -57,6 +57,15 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,210.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
@@ -76,6 +85,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Label Visibility</key>
                 <dict>
@@ -148,7 +162,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{570.000,110.000}</string>
+                    <string>{568.000,110.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -172,15 +186,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -191,15 +201,11 @@
                 <dict>
                     <key>value</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Vertical Spacing</key>
                 <dict>
                     <key>value</key>
                     <string>15.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Name</key>
                 <dict>
@@ -208,13 +214,8 @@
                     <key>selectedStringValue</key>
                     <string>2</string>
                 </dict>
-                <key>Spread</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -230,24 +231,11 @@
                 <dict>
                     <key>value</key>
                     <string>{570.000,110.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{12.913,1.121}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -258,11 +246,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Visibility</key>
                 <dict>
@@ -297,7 +280,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{570.000,110.000}</string>
+                    <string>{568.000,110.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -321,15 +304,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -340,15 +319,11 @@
                 <dict>
                     <key>value</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Vertical Spacing</key>
                 <dict>
                     <key>value</key>
                     <string>15.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Name</key>
                 <dict>
@@ -357,13 +332,8 @@
                     <key>selectedStringValue</key>
                     <string>2</string>
                 </dict>
-                <key>Spread</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
-                <string>7</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -378,7 +348,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{570.000,110.000}</string>
+                    <string>{568.000,110.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -402,15 +372,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -421,15 +387,11 @@
                 <dict>
                     <key>value</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Vertical Spacing</key>
                 <dict>
                     <key>value</key>
                     <string>15.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Name</key>
                 <dict>
@@ -438,13 +400,8 @@
                     <key>selectedStringValue</key>
                     <string>2</string>
                 </dict>
-                <key>Spread</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
-                <string>7</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -459,7 +416,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{570.000,110.000}</string>
+                    <string>{568.000,110.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -483,15 +440,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -502,15 +455,11 @@
                 <dict>
                     <key>value</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Vertical Spacing</key>
                 <dict>
                     <key>value</key>
                     <string>15.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Name</key>
                 <dict>
@@ -519,13 +468,126 @@
                     <key>selectedStringValue</key>
                     <string>2</string>
                 </dict>
-                <key>Spread</key>
+                <key>zDepth</key>
+                <string>8</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>36821</string>
+                <key>className</key>
+                <string>PTModelObjectCharacterSelector</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Multiple Unlock</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{570.000,110.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{12.913,1.121}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Visibility</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Vertical Spacing</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Label Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
+                <key>zDepth</key>
+                <string>6</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>36851</string>
+                <key>className</key>
+                <string>PTModelObjectCharacterSelector</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Multiple Unlock</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{568.000,110.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
                 <dict>
                     <key>animations</key>
                     <array/>
                 </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{12.913,1.121}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Label Visibility</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Vertical Spacing</key>
+                <dict>
+                    <key>value</key>
+                    <string>15.000000</string>
+                </dict>
+                <key>Label Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
                 <key>zDepth</key>
-                <string>7</string>
+                <string>8</string>
             </dict>
         </array>
     </dict>

@@ -113,6 +113,11 @@
                     <key>animations</key>
                     <array/>
                 </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -123,9 +128,9 @@
                 <key>key</key>
                 <string>PTPScreenMainMenuUI</string>
                 <key>openFrames</key>
-                <string>90</string>
+                <string>120</string>
                 <key>idleFrames</key>
-                <string>90</string>
+                <string>200</string>
                 <key>closeFrames</key>
                 <string>0</string>
             </dict>
@@ -149,7 +154,7 @@
                 <key>Ad Banner</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoAds</string>
+                    <string>kAdMob</string>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -279,6 +284,13 @@
                 <dict>
                     <key>value</key>
                     <string>5.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -366,16 +378,6 @@
                     <key>selectedStringValue</key>
                     <string>kAdMob</string>
                 </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -437,6 +439,54 @@
                 <string>60</string>
                 <key>idleFrames</key>
                 <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>36844</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 3</string>
+                <key>openFrames</key>
+                <string>120</string>
+                <key>idleFrames</key>
+                <string>200</string>
                 <key>closeFrames</key>
                 <string>0</string>
             </dict>

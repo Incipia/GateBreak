@@ -478,6 +478,50 @@
                     </array>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>36870</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>36872</string>
+                    </array>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>38114</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>38116</string>
+                    </array>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>38307</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>38309</string>
+                    </array>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>38327</string>
+                <key>Emitters</key>
+                <dict>
+                    <key>emitters</key>
+                    <array>
+                        <string>38329</string>
+                    </array>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>
