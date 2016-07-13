@@ -42,13 +42,27 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
                 <dict>
                     <key>animations</key>
                     <array/>
@@ -73,6 +87,11 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string></string>
+                </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>
@@ -131,14 +150,30 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -162,6 +197,11 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string></string>
+                </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>

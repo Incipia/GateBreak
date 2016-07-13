@@ -513,7 +513,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{0.100,-0.100}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -797,7 +797,7 @@
                     <string>0.000000</string>
                 </dict>
                 <key>zDepth</key>
-                <string>-96</string>
+                <string>-100</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -945,24 +945,11 @@
                 <dict>
                     <key>value</key>
                     <string>{0.100,0.100}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.500,4.500}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -975,11 +962,6 @@
                     <string>0</string>
                     <key>value</key>
                     <string>1</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Speed</key>
                 <dict>
@@ -1003,24 +985,11 @@
                 <dict>
                     <key>value</key>
                     <string>{0.100,250.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,2.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1031,11 +1000,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Speed</key>
                 <dict>
@@ -1059,24 +1023,11 @@
                 <dict>
                     <key>value</key>
                     <string>{0.100,0.100}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,2.633}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1087,11 +1038,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Speed</key>
                 <dict>

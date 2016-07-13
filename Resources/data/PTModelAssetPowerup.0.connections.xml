@@ -18,6 +18,11 @@
                     <key>value</key>
                     <string>12606</string>
                 </dict>
+                <key>Start Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>39167</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -31,6 +36,11 @@
                 <dict>
                     <key>value</key>
                     <string>14447</string>
+                </dict>
+                <key>Start Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>39168</string>
                 </dict>
             </dict>
             <dict>
@@ -46,6 +56,11 @@
                     <key>value</key>
                     <string>17930</string>
                 </dict>
+                <key>Start Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>39169</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -60,6 +75,11 @@
                     <key>value</key>
                     <string>22482</string>
                 </dict>
+                <key>Start Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>39170</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -69,23 +89,10 @@
                     <key>value</key>
                     <string>14761</string>
                 </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15370</string>
-                <key>Idle Animation</key>
+                <key>Start Sound</key>
                 <dict>
                     <key>value</key>
-                    <string>15372</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>16203</string>
-                <key>Idle Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>16205</string>
+                    <string>39229</string>
                 </dict>
             </dict>
             <dict>
@@ -100,6 +107,34 @@
                 <dict>
                     <key>value</key>
                     <string>19857</string>
+                </dict>
+                <key>Start Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>39258</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15370</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>15372</string>
+                </dict>
+                <key>Start Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>39263</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16203</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>16205</string>
                 </dict>
             </dict>
             <dict>

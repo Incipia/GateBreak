@@ -1,229 +1,148 @@
 #ifndef PTMODELCONTROLLER_H
 #define PTMODELCONTROLLER_H
 
-#include "cocos2d.h"
-#include <map>
+#include <unordered_map>
+#include <string>
+#include <vector>
+#include <functional>
+#include <limits>
+#include <algorithm>
 
-using namespace cocos2d;
+#include <cocos2d.h>
 
-class QLocalServer;
 class PTModel;
-class PTModelSprite;
-class PTModelSound;
-class PTNodeUIStart;
-class PTNodeScene;
-class PTNodeUI;
-class PTModelLevelSection;
-class PTModelObjectButton;
-class PTModelScreen;
 
-typedef PTModel *(*CreatePTModelFn)(void);
+template <typename StringType>
+inline const char* toCString(const StringType &str) { return str; }
 
-typedef enum{
-    PTModelControllerDataTypeAttributes = 0,
-    PTModelControllerDataTypeConnections = 1,
+template <>
+inline const char* toCString<std::string>(const std::string &str) { return str.c_str(); }
 
-} PTModelControllerDataType;
+template <>
+inline const char* toCString<cocos2d::CCString>(const cocos2d::CCString &str) { return str.getCString(); }
 
-class PTModelController {
-public:    
-    static PTModelController *shared();
+class PTModelController
+{
+public:
+    enum DataType
+    {
+        Attributes,
+        Connections
+    };
+
+    enum LoadFileStatus
+    {
+        LoadFileSuccess,
+        LoadFileNotFound,
+        LoadFileError
+    };
+
+    static PTModelController* shared();
     static void resetShared();
 
-    PTModelController &operator=(const PTModelController &) { return *this; }
+    void addFactory(const char *className, std::function<PTModel*()> createFunc);
 
-    static unsigned int nextId();
+    PTModel* createModel(const char *className);
 
-    void addModel( PTModel *model );
-    void insertModel( unsigned int index, PTModel *model );
-    unsigned int indexOfModel( PTModel *model ) const;
-    void removeModel( PTModel *model );
+    void addModel(PTModel *model, std::size_t index = std::numeric_limits<std::size_t>::max());
+    void removeModel(PTModel *model);
 
-    CCArray *getModelArray( const std::string &className );
-    void setModelArray( const std::string &className, CCArray *array );
+    PTModel* getModel(std::size_t id) const;
+    PTModel* getFirstModel(const char *className) const;
+    std::vector<PTModel*> getModels(const char *className) const;
 
-    PTModel *getModel( const std::string &className );
-    PTModel *getModel( unsigned int id );
+    bool hasModel(PTModel *model) const;
+    std::size_t modelIndex(PTModel *model) const;
 
-    void saveSpriteToFile( PTModelSprite *model );
-    void loadSpriteFromFile( PTModelSprite *model );
-    void copySpriteFile(PTModelSprite *original, PTModelSprite *copy);
-    bool deleteSpriteFile( PTModelSprite *model );
+    void modelIdChanged(PTModel *model, std::size_t oldId);
 
-    PTModel *createModel( const std::string &className );
+    virtual void modelChanged(PTModel *model);
 
-    PTModelSprite *getSpriteById( int id );
+    inline bool hasChanges() const { return _changesState; }
+    inline void setChangesState(bool hasChanges) { _changesState = hasChanges; }
 
-    bool updateLoadingQueue( const char* resourceFolder );
-    void loadFromFile( CCString fileName );
+    inline unsigned int lastModelId() const { return _lastModelId; }
+    inline unsigned int nextModelId() { return ++_lastModelId; }
+    inline void setLastModelid(unsigned int id) { _lastModelId = id; }
 
-    bool isChanged() const;
+    bool loadDirectory(const char *path);
+    LoadFileStatus loadFile(const char *path, DataType type);
 
-    // returns true no previous sessions were found
-    bool isEmpty() const;
+    std::size_t loadProgress() const;
 
-    bool loadDataForClass( CCString *fileName, PTModelControllerDataType dataType );
-
-    int fileLoadingProgress();
-
-    void stopAllBackgroundMusic();
-    void stopAllSounds();
-
-    void clean();
-
-    int bigIbVersion() const;
-
-    CCDictionary* data();
+    inline const std::string& loadError() const { return _loadError; }
+    inline void clearLoadError() { _loadError.clear(); }
 
     void toggleUpdateObjects(bool state, bool updateObjects = true);
     inline bool isUpdateObjectsEnabled() const { return _updateObjectsState; }
 
-    void removeInvalidObjects();
+    static void ibVersion(int &big, int &major, int &minor);
 
-    //QT specific part
-#ifdef __QT__
-    static QString rootTempDirPath();
+    static inline int bigIbVersion() { int big = 0, major = 0, minor = 0; ibVersion(big, major, minor); return big; }
+    static inline int majorIbVersion() { int big = 0, major = 0, minor = 0; ibVersion(big, major, minor); return major; }
+    static inline int minorIbVersion() { int big = 0, major = 0, minor = 0; ibVersion(big, major, minor); return minor; }
 
-    void initDefaultModelSet();
-    QString initWorkingFolder();
+    void clean();
 
-    void setupDefaultScene(const QVariantMap &settings, const QString &gamePreset);
+    /***************************Templates***************************/
+    template <typename StringType>
+    void addFactory(const StringType &className, std::function<PTModel*()> createFunc) { addFactory(toCString(className), createFunc); }
 
-    QString saveSoundFile( PTModelSound *model, const QString &sourceFilePath );
-    QString getSoundFileName( PTModelSound *model );
-    bool deleteSoundFile( PTModelSound *model );
-    bool isEmptySoundFile( PTModelSound *model );
+    template <typename StringType>
+    PTModel* createModel(const StringType &className) { return createModel(toCString(className)); }
 
-    bool isWorkDirEmpty();
-    QStringList getSessionsList();
+    template <typename StringType>
+    PTModel* getFirstModel(const StringType &className) const { return getFirstModel(toCString(className)); }
 
-    void copyPath(QString src, QString dst);
-    QString getWorkingPath( ) { return _workingPath; }
-    QString savedFilePath;
-    bool loadFromFile( QString fileName, bool isTemplate = false );
-    bool saveToFile( QString fileName );
-    bool saveSession(bool isAutoSave = true);
+    template <typename StringType>
+    std::vector<PTModel*> getModels(const StringType &className) const { return getModels(toCString(className)); }
 
-    bool isLoading();
-    void setIsLoading(bool);
+    template <typename StringType, typename Compare>
+    void sortModels(const StringType &className, Compare compare) {
+        std::unordered_map<std::string, std::vector<PTModel*>>::iterator it = _nameModelMap.find(toCString(className));
 
-    bool writeDataForClass( CCString *className, PTModelControllerDataType dataType );
+        if (it != _nameModelMap.end()) {
+            std::sort(it->second.begin(), it->second.end(), compare);
+        }
+    }
 
+    template <typename StringType>
+    bool loadDirectory(const StringType &path) { return loadDirectory(toCString(path)); }
 
-    QString errorString() const;
-    void clearErrorString();
+    template <typename StringType>
+    LoadFileStatus loadFile(const StringType &path, DataType type) { return loadFile(toCString(path), type); }
 
-    bool loadExistingSession();
-    bool loadExistingSession( const QString & );
+protected:
+    PTModelController();
+    virtual ~PTModelController();
 
-    void removeSessionFolder( QString uid );
-
-    bool compressFilesToArhive(QString basePath, QStringList filesList, QString archiveName );
-
-    void checkSpriteFiles();
-
-    void onModelChange(QString className);
-
-
-    void perform1xto20conversion();
-    void convertUiButtons();
-    void convertUiButtons(PTNodeUI *node);
-    void convertUiSoundButtons(PTModelScreen *model, std::vector<PTModelObjectButton*> &onButtons, std::vector<PTModelObjectButton*> &offButtons);
-    void convertUnitAssets();
-
-    void connectAttributes(PTModel *outputNode, const CCString &outputLink, PTModel *inputNode, const CCString &inputLink);
-#endif
+    void loadDictionary(cocos2d::CCDictionary *dict, DataType type);
 
 private:
-    // Model Controller is singleton object so there is no ability to create this object explicitly.
-    // Use PTModelController::shared() method to get access to singleton instance instead.
-    explicit PTModelController( );
-    virtual ~PTModelController( );
+    void initFactory();
 
-    void init();
+    void modelAdded(PTModel *model);
+    void modelRemoved(PTModel *model);
 
-    void addClass(const std::string &className, CreatePTModelFn pfnCreate);
+protected:
+    static PTModelController *_instance;
 
-    void splitVersionNumbers(const char* veriosnString, int *v1, int *v2, int *v3) const;
+    std::unordered_map<std::string, std::function<PTModel*()>> _factoryMap;
 
-#ifdef __QT__
-    bool compressWorkingFiles( QString fileName );
-    void workingFiles( QString path, QStringList &list );
+    std::unordered_map<std::string, std::vector<PTModel*>> _nameModelMap;
+    std::unordered_map<std::size_t, PTModel*> _idModelMap;
 
-    // remove folder of current session
-    void removeWorkingFolder();
+    std::string _loadError;
 
-    void checkAtlasFiles();
-    void checkFontFiles();
+private:
+    class LoadProgress;
 
-    //For setupDefaultScene
-    void setupDefaultNodes(PTNodeUIStart **startNode, PTNodeScene **sceneNode, PTNodeUI **gameUiNode, bool fromExisting, bool hasPause);
-    void setupDefaultGameUi(PTNodeUI *gameUiNode, bool fromExisting, bool hasPause);
-    void setupMainMenu(PTNodeScene *sceneNode, PTNodeUI **mainMenuUi, bool hasInfoScreen, bool hasCoinShop);
-    PTNodeUI* setupCompleteUi();
-    PTNodeUI* setupWorldsUi();
-    PTNodeUI* setupInfoScreen(PTNodeScene *sceneNode, PTNodeUI *mainMenuUi);
-    void setupCoinShop(PTNodeScene *sceneNode, PTNodeUI *mainMenuUi, PTNodeUI *infoScreen);
-    void setupPauseScreen(PTNodeUI *gameUiNode, PTNodeUI *mainMenuUi, PTNodeUI *worldsUi);
-    void setupGameOverScreen(PTNodeUI *gameUiNode, PTNodeUI *mainMenuUi, PTNodeUI *worldsUi);
-    PTModelLevelSection* setupStartSection(PTNodeScene *sceneNode, bool fromExisting);
-    void setupDefaultCharacter(PTModelLevelSection *section);
-    void setupDefaultPlatform(PTModelLevelSection *section);
-    void setupNextScreenJump(PTNodeScene *sceneNode, PTModelLevelSection *section);
-    void setupMultipleWorlds(QList<PTNodeScene*> &sceneNodes, QList<PTNodeUI*> &completeUiNodes, qulonglong count,
-                             PTNodeScene *sceneNode, PTNodeUI *completeUiNode, PTNodeUI *gameUiNode, bool singleUi);
-    PTNodeScene* setupEndScene(PTNodeUI *completeUiNode, const CCPoint &scenePos, float uiPosX);
-    void setupWorldsUi2(PTNodeUI *worldsUi, PTNodeUI *mainMenuUi, const QList<PTNodeScene*> &sceneNodes);
-#endif
+    bool _changesState;
+    unsigned int _lastModelId;
 
-    cocos2d::CCDictionary *_data;
-    typedef std::map<std::string, CreatePTModelFn> PTModelFactoryMap;
-    PTModelFactoryMap _factoryMap;
-    bool _isEmpty;
-
-    typedef std::map<unsigned int, PTModel*> PTModelIdMap;
-    PTModelIdMap _modelIdMap;
-
-    int _fileLoadCounter;
-    int _fileSectionLoadCounter;
-    int _fileLoadingMode; // 0 - loading data, 1 - loading connections, 2 - loading complete
-    int _fileLoadingProgress;
+    LoadProgress *_loadProgress;
 
     bool _updateObjectsState;
-
-#ifdef __QT__
-    QString _workingPath;
-    QStringList _ignoreList;
-    QString _errorString;
-
-    QMap<QString, bool> _changeModelMap;
-    bool _isLoading;
-
-    QLocalServer *m_localServer;
-
-    //PATCH SECTION
-    void pathForObjectSorting();  // since BBox 1.0.9
-    void patchForFileLoading( QFileInfo inputFileInfo ); // since BBox 1.0.14
-    void patchForJoystick(); // since BBox 1.1
-    void patchForCharacterBulletsCollisionType(); // since BBox 1.1
-    void patchForDestroyType(); //since BBox 1.1
-    void patchReviewLinks();
-    void patchLogicItems(); // since BBox 1.3.4
-    void patchOldAdsSettings();
-    void patchConvertWakeupSleepToComponents(); //in bbox2 all wakeup and sleep is a component now (since 2.0)
-
-    void assignIndexForLevelSections();
-
-    void applyPatches();
-    void applyBackgroundsPatch();
-    void applyAirDragPowerupPatch(); //invert AirDrag value inside powerup (since 2.0)
-#endif
-
-
-
-
 };
-
-
 
 #endif // PTMODELCONTROLLER_H

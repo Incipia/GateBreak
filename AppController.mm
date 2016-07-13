@@ -27,12 +27,12 @@ static PTPAppDelegate s_sharedApplication;
 
     PTModelController *mc = PTModelController::shared();
     mc->clean();
-    mc->loadDataForClass( CCString::create("data/PTModelGeneralSettings.0.attributes.xml"), PTModelControllerDataTypeAttributes );
-    mc->loadDataForClass( CCString::create("data/PTModelFont.0.attributes.xml"), PTModelControllerDataTypeAttributes );     
-    mc->loadDataForClass( CCString::create("data/PTModelScreen.0.attributes.xml"), PTModelControllerDataTypeAttributes );
-    mc->loadDataForClass( CCString::create("data/PTModelObjectLabel.0.attributes.xml"), PTModelControllerDataTypeAttributes );
-    mc->loadDataForClass( CCString::create("data/PTModelObjectLoadingBar.0.attributes.xml"), PTModelControllerDataTypeAttributes );
-    mc->loadDataForClass( CCString::create("data/PTModelScreen.0.connections.xml"), PTModelControllerDataTypeConnections );
+    mc->loadFile( "data/PTModelGeneralSettings.0.attributes.xml", PTModelController::Attributes );
+    mc->loadFile( "data/PTModelFont.0.attributes.xml", PTModelController::Attributes );     
+    mc->loadFile( "data/PTModelScreen.0.attributes.xml", PTModelController::Attributes );
+    mc->loadFile( "data/PTModelObjectLabel.0.attributes.xml", PTModelController::Attributes );
+    mc->loadFile( "data/PTModelObjectLoadingBar.0.attributes.xml", PTModelController::Attributes );
+    mc->loadFile( "data/PTModelScreen.0.connections.xml", PTModelController::Connections );
 
     // Add the view controller's view to the window and display.
     window = [[UIWindow alloc] initWithFrame: [[UIScreen mainScreen] bounds]];

@@ -26,8 +26,11 @@ enum PTPInputControllerAction {
     PTPInputControllerActionMotorCW = 9,
     PTPInputControllerActionMotorCCW = 10,
     PTPInputControllerActionButtonPressed = 11,
-    PTPInputControllerActionButtonReleased = 12
-
+    PTPInputControllerActionButtonReleased = 12,
+    PTPInputControllerActionSwipeLeft,
+    PTPInputControllerActionSwipeRight,
+    PTPInputControllerActionSwipeTop,
+    PTPInputControllerActionSwipeBottom
 };
 
 enum PTPInputControllerKey {

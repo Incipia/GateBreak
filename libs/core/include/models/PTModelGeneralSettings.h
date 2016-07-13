@@ -50,6 +50,9 @@ public:
 
     static PTModelGeneralSettings* shared();
 
+    inline unsigned int lastIdNumber() const { return _lastIdNumber; }
+    inline void setLastIdNumber(unsigned int id) { _lastIdNumber = id; }
+
     void setScreenAdjustment( PTPScreenAdjustment value);
     PTPScreenAdjustment screenAdjustment();
 
@@ -82,9 +85,6 @@ public:
 
     virtual void initWithDictionary( CCDictionary *dict );
     virtual cocos2d::CCDictionary *getDictionary();
-
-    unsigned int lastIdNumber;
-
 
     CCString versionNumber();
     void setVersionNumber(const CCString &);
@@ -225,6 +225,8 @@ public:
     void dumpAttributes();
 
 private:
+    unsigned int _lastIdNumber;
+
     CCString *_ibVersion;
 
     PTPScreenOrientation _orientation;

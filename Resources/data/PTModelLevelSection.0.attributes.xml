@@ -93,29 +93,15 @@
                     <key>value</key>
                     <string>Start</string>
                 </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>500.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -138,29 +124,15 @@
                     <key>value</key>
                     <string>Start</string>
                 </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>500.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -170,51 +142,6 @@
                 <string>1</string>
                 <key>parentScreenId</key>
                 <string>38104</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>36862</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Start</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>End Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Width</key>
-                <dict>
-                    <key>value</key>
-                    <string>500.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Play Cooldown</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>1</string>
-                <key>parentScreenId</key>
-                <string>36860</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -256,25 +183,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36889</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>LightPurp</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-                <key>parentScreenId</key>
-                <string>36860</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>28172</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
@@ -310,25 +218,6 @@
                 <string>0</string>
                 <key>parentScreenId</key>
                 <string>38104</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>36891</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>LightOrange</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-                <key>parentScreenId</key>
-                <string>36860</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -418,25 +307,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36893</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>LightBlue</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-                <key>parentScreenId</key>
-                <string>36860</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>23148</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
@@ -447,15 +317,29 @@
                     <key>value</key>
                     <string>Start</string>
                 </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -537,25 +421,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36895</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>LightPink</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-                <key>parentScreenId</key>
-                <string>36860</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>28202</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
@@ -594,25 +459,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36897</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>LightYellow</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-                <key>parentScreenId</key>
-                <string>36860</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>21315</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
@@ -625,6 +471,23 @@
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -699,25 +562,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36899</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>LightGreen</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-                <key>parentScreenId</key>
-                <string>36860</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>27676</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
@@ -773,35 +617,6 @@
                 <string>0</string>
                 <key>parentScreenId</key>
                 <string>38104</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>36901</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>BlueGate</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                </dict>
-                <key>Width</key>
-                <dict>
-                    <key>value</key>
-                    <string>500.000000</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-                <key>parentScreenId</key>
-                <string>36860</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -908,35 +723,6 @@
                 <string>0</string>
                 <key>parentScreenId</key>
                 <string>38104</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>36928</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>GreenGate</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                </dict>
-                <key>Width</key>
-                <dict>
-                    <key>value</key>
-                    <string>500.000000</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-                <key>parentScreenId</key>
-                <string>36860</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1810,11 +1596,25 @@
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -1868,11 +1668,25 @@
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -2448,6 +2262,23 @@
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -2496,6 +2327,23 @@
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -2544,6 +2392,23 @@
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
