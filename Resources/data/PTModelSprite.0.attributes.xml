@@ -310,7 +310,7 @@
                     <string>BlackCircle</string>
                 </dict>
                 <key>pos</key>
-                <string>{392.00,1020.00}</string>
+                <string>{286.00,1020.00}</string>
                 <key>offset</key>
                 <string>{25.00,25.00}</string>
                 <key>size</key>
@@ -373,7 +373,7 @@
                     <string>CapH</string>
                 </dict>
                 <key>pos</key>
-                <string>{1858.00,0.00}</string>
+                <string>{1758.00,0.00}</string>
                 <key>offset</key>
                 <string>{22.00,53.00}</string>
                 <key>size</key>
@@ -541,7 +541,7 @@
                     <string>BGH</string>
                 </dict>
                 <key>pos</key>
-                <string>{82.00,510.00}</string>
+                <string>{82.00,0.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -562,7 +562,7 @@
                     <string>Overlay</string>
                 </dict>
                 <key>pos</key>
-                <string>{82.00,0.00}</string>
+                <string>{82.00,510.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -793,7 +793,7 @@
                     <string>CapMid</string>
                 </dict>
                 <key>pos</key>
-                <string>{1758.00,0.00}</string>
+                <string>{1881.00,0.00}</string>
                 <key>offset</key>
                 <string>{57.00,53.00}</string>
                 <key>size</key>
@@ -814,7 +814,7 @@
                     <string>GateH</string>
                 </dict>
                 <key>pos</key>
-                <string>{886.00,1479.00}</string>
+                <string>{654.00,1339.00}</string>
                 <key>offset</key>
                 <string>{33.00,41.00}</string>
                 <key>size</key>
@@ -961,7 +961,7 @@
                     <string>YellowGate</string>
                 </dict>
                 <key>pos</key>
-                <string>{1478.00,1138.00}</string>
+                <string>{1540.00,1339.00}</string>
                 <key>offset</key>
                 <string>{33.00,33.00}</string>
                 <key>size</key>
@@ -1003,7 +1003,7 @@
                     <string>RedGate</string>
                 </dict>
                 <key>pos</key>
-                <string>{654.00,1339.00}</string>
+                <string>{886.00,1479.00}</string>
                 <key>offset</key>
                 <string>{57.00,113.00}</string>
                 <key>size</key>
@@ -1024,7 +1024,7 @@
                     <string>BlueYellow</string>
                 </dict>
                 <key>pos</key>
-                <string>{1909.00,922.00}</string>
+                <string>{2009.00,175.00}</string>
                 <key>offset</key>
                 <string>{10.00,10.00}</string>
                 <key>size</key>
@@ -1045,7 +1045,7 @@
                     <string>PurpGreen</string>
                 </dict>
                 <key>pos</key>
-                <string>{1996.00,324.00}</string>
+                <string>{1909.00,922.00}</string>
                 <key>offset</key>
                 <string>{10.00,10.00}</string>
                 <key>size</key>
@@ -1066,7 +1066,7 @@
                     <string>GreenRed</string>
                 </dict>
                 <key>pos</key>
-                <string>{1996.00,360.00}</string>
+                <string>{1996.00,324.00}</string>
                 <key>offset</key>
                 <string>{10.00,10.00}</string>
                 <key>size</key>
@@ -1087,7 +1087,7 @@
                     <string>OrangeBlue</string>
                 </dict>
                 <key>pos</key>
-                <string>{1996.00,396.00}</string>
+                <string>{1996.00,360.00}</string>
                 <key>offset</key>
                 <string>{10.00,10.00}</string>
                 <key>size</key>
@@ -1213,7 +1213,7 @@
                     <string>BlackImg</string>
                 </dict>
                 <key>pos</key>
-                <string>{286.00,1020.00}</string>
+                <string>{393.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1234,7 +1234,7 @@
                     <string>BluePaintSplatter</string>
                 </dict>
                 <key>pos</key>
-                <string>{1308.00,1339.00}</string>
+                <string>{1828.00,1138.00}</string>
                 <key>offset</key>
                 <string>{23.00,48.00}</string>
                 <key>size</key>
@@ -1255,7 +1255,7 @@
                     <string>GreenPaintSplatter3</string>
                 </dict>
                 <key>pos</key>
-                <string>{330.00,1138.00}</string>
+                <string>{680.00,1138.00}</string>
                 <key>offset</key>
                 <string>{25.00,0.00}</string>
                 <key>size</key>
@@ -1297,7 +1297,7 @@
                     <string>YellPaintSplatter</string>
                 </dict>
                 <key>pos</key>
-                <string>{633.00,1138.00}</string>
+                <string>{983.00,1138.00}</string>
                 <key>offset</key>
                 <string>{22.00,13.00}</string>
                 <key>size</key>
@@ -1318,7 +1318,7 @@
                     <string>YellPaintSplatter2</string>
                 </dict>
                 <key>pos</key>
-                <string>{804.00,1138.00}</string>
+                <string>{1154.00,1138.00}</string>
                 <key>offset</key>
                 <string>{22.00,17.00}</string>
                 <key>size</key>
@@ -1339,7 +1339,7 @@
                     <string>YellPaintSplatter3</string>
                 </dict>
                 <key>pos</key>
-                <string>{960.00,1138.00}</string>
+                <string>{1310.00,1138.00}</string>
                 <key>offset</key>
                 <string>{20.00,19.00}</string>
                 <key>size</key>
@@ -1381,7 +1381,7 @@
                     <string>BluePaintSplatter3</string>
                 </dict>
                 <key>pos</key>
-                <string>{175.00,1138.00}</string>
+                <string>{525.00,1138.00}</string>
                 <key>offset</key>
                 <string>{19.00,4.00}</string>
                 <key>size</key>
@@ -1444,7 +1444,7 @@
                     <string>RedPaintSplatter</string>
                 </dict>
                 <key>pos</key>
-                <string>{483.00,1138.00}</string>
+                <string>{833.00,1138.00}</string>
                 <key>offset</key>
                 <string>{29.00,3.00}</string>
                 <key>size</key>
@@ -1486,7 +1486,7 @@
                     <string>RedPaintSplatter3</string>
                 </dict>
                 <key>pos</key>
-                <string>{1291.00,1138.00}</string>
+                <string>{1641.00,1138.00}</string>
                 <key>offset</key>
                 <string>{14.00,51.00}</string>
                 <key>size</key>
@@ -1528,7 +1528,7 @@
                     <string>PurpPaintSplatter2</string>
                 </dict>
                 <key>pos</key>
-                <string>{1104.00,1138.00}</string>
+                <string>{1454.00,1138.00}</string>
                 <key>offset</key>
                 <string>{8.00,25.00}</string>
                 <key>size</key>
@@ -1612,7 +1612,7 @@
                     <string>RainbowGem</string>
                 </dict>
                 <key>pos</key>
-                <string>{1813.00,440.00}</string>
+                <string>{1996.00,396.00}</string>
                 <key>offset</key>
                 <string>{10.00,10.00}</string>
                 <key>size</key>
@@ -1696,7 +1696,7 @@
                     <string>RedOrange</string>
                 </dict>
                 <key>pos</key>
-                <string>{1849.00,440.00}</string>
+                <string>{1813.00,440.00}</string>
                 <key>offset</key>
                 <string>{10.00,10.00}</string>
                 <key>size</key>
@@ -1717,7 +1717,7 @@
                     <string>BlueGreen</string>
                 </dict>
                 <key>pos</key>
-                <string>{1885.00,440.00}</string>
+                <string>{1849.00,440.00}</string>
                 <key>offset</key>
                 <string>{10.00,10.00}</string>
                 <key>size</key>
@@ -1738,7 +1738,7 @@
                     <string>PurplePink</string>
                 </dict>
                 <key>pos</key>
-                <string>{1921.00,440.00}</string>
+                <string>{1885.00,440.00}</string>
                 <key>offset</key>
                 <string>{10.00,10.00}</string>
                 <key>size</key>
@@ -1861,7 +1861,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>InfoIcon</string>
+                    <string>SFXIcon</string>
                 </dict>
                 <key>pos</key>
                 <string>{1437.00,232.00}</string>
@@ -1906,7 +1906,7 @@
                     <string>SoundIsOff</string>
                 </dict>
                 <key>pos</key>
-                <string>{0.00,1138.00}</string>
+                <string>{350.00,1138.00}</string>
                 <key>offset</key>
                 <string>{19.00,6.00}</string>
                 <key>size</key>
@@ -2032,7 +2032,7 @@
                     <string>WhiteGreen</string>
                 </dict>
                 <key>pos</key>
-                <string>{1873.00,922.00}</string>
+                <string>{1921.00,440.00}</string>
                 <key>offset</key>
                 <string>{10.00,10.00}</string>
                 <key>size</key>
@@ -2053,7 +2053,7 @@
                     <string>OrangeBlack</string>
                 </dict>
                 <key>pos</key>
-                <string>{2009.00,175.00}</string>
+                <string>{1873.00,922.00}</string>
                 <key>offset</key>
                 <string>{10.00,10.00}</string>
                 <key>size</key>
@@ -2188,6 +2188,69 @@
                 <string>{1235.00,260.00}</string>
                 <key>sourceRect</key>
                 <string>{{17.00,16.00},{1202.00,228.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>39356</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GB_Logo_1024</string>
+                </dict>
+                <key>pos</key>
+                <string>{0.00,0.00}</string>
+                <key>offset</key>
+                <string>{0.00,0.00}</string>
+                <key>size</key>
+                <string>{0.00,0.00}</string>
+                <key>sourceSize</key>
+                <string>{1024.00,1024.00}</string>
+                <key>sourceRect</key>
+                <string>{{0.00,0.00},{0.00,0.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>39371</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SFX_TurnOff</string>
+                </dict>
+                <key>pos</key>
+                <string>{175.00,1138.00}</string>
+                <key>offset</key>
+                <string>{19.00,6.00}</string>
+                <key>size</key>
+                <string>{169.00,195.00}</string>
+                <key>sourceSize</key>
+                <string>{206.00,206.00}</string>
+                <key>sourceRect</key>
+                <string>{{19.00,6.00},{169.00,195.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>39375</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SFX_TurnOn</string>
+                </dict>
+                <key>pos</key>
+                <string>{0.00,1138.00}</string>
+                <key>offset</key>
+                <string>{19.00,6.00}</string>
+                <key>size</key>
+                <string>{169.00,195.00}</string>
+                <key>sourceSize</key>
+                <string>{206.00,206.00}</string>
+                <key>sourceRect</key>
+                <string>{{19.00,6.00},{169.00,195.00}}</string>
             </dict>
         </array>
     </dict>

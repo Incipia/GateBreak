@@ -19,55 +19,26 @@
                 <dict>
                     <key>value</key>
                     <string>{419.000,556.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.900,0.900}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Powerup Selection</key>
                 <dict>
@@ -80,16 +51,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kPurchaseRemoveAds</string>
-                </dict>
-                <key>Visibility Threshold</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Interval</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Back To</key>
                 <dict>
@@ -105,11 +66,6 @@
                     <key>selectedStringValue</key>
                     <string></string>
                 </dict>
-                <key>Block Touch</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Keyboard Key</key>
                 <dict>
                     <key>value</key>
@@ -119,22 +75,16 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Buy And Use</key>
                 <dict>
                     <key>value</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Quantity</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -147,18 +97,16 @@
                     <string>0</string>
                     <key>value</key>
                     <string>0.990000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>One Time Purchase</key>
                 <dict>
-                    <key>animations</key>
-                    <array/>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
                     <key>value</key>
-                    <string>GateBreak.No.Ads</string>
+                    <string>com.GateBreak.RemoveAds</string>
                 </dict>
                 <key>Ad Network</key>
                 <dict>
@@ -292,55 +240,26 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,430.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{5.715,0.800}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Powerup Selection</key>
                 <dict>
@@ -353,16 +272,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kPurchaseRemoveAds</string>
-                </dict>
-                <key>Visibility Threshold</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Interval</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Back To</key>
                 <dict>
@@ -378,11 +287,6 @@
                     <key>selectedStringValue</key>
                     <string></string>
                 </dict>
-                <key>Block Touch</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Keyboard Key</key>
                 <dict>
                     <key>value</key>
@@ -392,22 +296,16 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Buy And Use</key>
                 <dict>
                     <key>value</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Quantity</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>
@@ -420,18 +318,16 @@
                     <string>0</string>
                     <key>value</key>
                     <string>0.990000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>One Time Purchase</key>
                 <dict>
-                    <key>animations</key>
-                    <array/>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
                     <key>value</key>
-                    <string></string>
+                    <string>com.GateBreak.RemoveAds</string>
                 </dict>
                 <key>Ad Network</key>
                 <dict>
