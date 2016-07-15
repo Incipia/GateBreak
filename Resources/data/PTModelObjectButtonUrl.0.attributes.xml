@@ -19,21 +19,53 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,310.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{3.811,0.800}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -56,6 +88,11 @@
                     <key>selectedStringValue</key>
                     <string></string>
                 </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Keyboard Key</key>
                 <dict>
                     <key>value</key>
@@ -65,11 +102,13 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>URL</key>
                 <dict>
                     <key>value</key>
-                    <string></string>
+                    <string>https://soundcloud.com/nicogmusic</string>
                 </dict>
                 <key>zDepth</key>
                 <string>5</string>
@@ -88,26 +127,55 @@
                 <dict>
                     <key>value</key>
                     <string>{570.000,550.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.226,1.226}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -130,6 +198,11 @@
                     <key>selectedStringValue</key>
                     <string></string>
                 </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Keyboard Key</key>
                 <dict>
                     <key>value</key>
@@ -139,11 +212,13 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>URL</key>
                 <dict>
                     <key>value</key>
-                    <string>www.incipia.co</string>
+                    <string>www.incipia.co/</string>
                 </dict>
                 <key>zDepth</key>
                 <string>6</string>

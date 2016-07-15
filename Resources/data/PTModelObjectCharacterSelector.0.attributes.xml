@@ -73,6 +73,11 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Label Visibility</key>
                 <dict>
                     <key>value</key>
@@ -160,6 +165,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Label Visibility</key>
                 <dict>
@@ -261,6 +271,11 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Label Visibility</key>
                 <dict>
                     <key>value</key>
@@ -361,6 +376,11 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Label Visibility</key>
                 <dict>
                     <key>value</key>
@@ -460,6 +480,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Label Visibility</key>
                 <dict>

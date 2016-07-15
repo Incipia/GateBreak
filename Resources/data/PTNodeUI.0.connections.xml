@@ -8,19 +8,19 @@
             <dict>
                 <key>id</key>
                 <string>101</string>
-                <key>Pause</key>
+                <key>Game Over</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>138</string>
+                    <string>153</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Game Over</key>
+                <key>Pause</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>153</string>
+                    <string>138</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -34,19 +34,19 @@
             <dict>
                 <key>id</key>
                 <string>112</string>
-                <key>Start</key>
+                <key>Info Screen</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>28242</string>
+                    <string>123</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Info Screen</key>
+                <key>Start</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>123</string>
+                    <string>28242</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -77,19 +77,19 @@
             <dict>
                 <key>id</key>
                 <string>132</string>
-                <key>Classic</key>
+                <key>Arcade</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>23145</string>
+                    <string>10572</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Arcade</key>
+                <key>Classic</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>10572</string>
+                    <string>23145</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -128,10 +128,10 @@
             <dict>
                 <key>id</key>
                 <string>28242</string>
-                <key>Tilt</key>
+                <key>Back</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>33982</string>
+                    <string>38103</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -146,10 +146,10 @@
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Back</key>
+                <key>Tilt</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>38103</string>
+                    <string>33982</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -163,19 +163,19 @@
             <dict>
                 <key>id</key>
                 <string>33976</string>
-                <key>Pause</key>
+                <key>Game Over</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>138</string>
+                    <string>153</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Game Over</key>
+                <key>Pause</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>153</string>
+                    <string>138</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -189,19 +189,19 @@
             <dict>
                 <key>id</key>
                 <string>33982</string>
-                <key>Classic</key>
+                <key>Arcade</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>34742</string>
+                    <string>33992</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Arcade</key>
+                <key>Classic</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>33992</string>
+                    <string>34742</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -215,19 +215,19 @@
             <dict>
                 <key>id</key>
                 <string>36843</string>
-                <key>Start</key>
+                <key>Info Screen</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>28242</string>
+                    <string>123</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Info Screen</key>
+                <key>Start</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>123</string>
+                    <string>28242</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>

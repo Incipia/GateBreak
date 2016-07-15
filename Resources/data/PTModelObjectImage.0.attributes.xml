@@ -19,11 +19,24 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,512.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -39,6 +52,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>1</string>
@@ -97,11 +112,24 @@
                 <dict>
                     <key>value</key>
                     <string>{570.000,300.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.084,1.497}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -119,6 +147,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.850000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -142,11 +172,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -157,6 +200,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -180,11 +228,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -195,6 +256,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -218,11 +284,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -233,6 +312,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -256,11 +340,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -271,6 +368,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -294,11 +396,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -309,6 +424,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -332,11 +452,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -347,6 +480,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -370,11 +508,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -385,6 +536,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -408,11 +564,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -423,6 +592,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -446,11 +620,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -461,6 +648,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -484,11 +676,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -499,6 +704,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -522,11 +732,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -537,6 +760,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -560,11 +788,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -575,6 +816,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -598,11 +844,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -613,6 +872,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -636,11 +900,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -651,6 +928,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -674,11 +956,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -689,6 +984,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -712,11 +1012,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -727,6 +1040,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -788,11 +1106,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -803,6 +1134,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -826,11 +1162,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -841,6 +1190,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -864,11 +1218,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -879,6 +1246,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -902,11 +1274,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -917,6 +1302,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -940,11 +1330,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,0.990}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -955,6 +1358,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -978,11 +1386,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -993,6 +1414,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1016,11 +1442,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1031,6 +1470,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1054,11 +1498,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1069,6 +1526,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1092,11 +1554,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1107,6 +1582,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1130,11 +1610,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1145,6 +1638,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1168,11 +1666,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1183,6 +1694,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1206,11 +1722,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1221,6 +1750,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1244,11 +1778,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1264,6 +1811,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1287,11 +1836,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1307,6 +1869,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1330,11 +1894,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1350,6 +1927,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1373,11 +1952,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1393,6 +1985,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1416,11 +2010,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1436,6 +2043,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1459,11 +2068,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1479,6 +2101,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1502,11 +2126,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1517,6 +2154,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1540,11 +2182,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1555,6 +2210,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1578,11 +2238,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1593,6 +2266,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1654,11 +2332,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1669,6 +2360,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1692,11 +2388,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1707,6 +2416,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1730,11 +2444,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1745,6 +2472,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1768,11 +2500,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1783,6 +2528,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1873,10 +2623,19 @@
                         </dict>
                     </array>
                 </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.500,0.500}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1887,6 +2646,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1983,6 +2747,10 @@
                 <dict>
                     <key>value</key>
                     <string>{0.500,0.500}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1993,6 +2761,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2016,11 +2789,24 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,512.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2036,6 +2822,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>3</string>
@@ -2125,10 +2913,19 @@
                         </dict>
                     </array>
                 </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.500,0.500}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2139,6 +2936,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>1</string>
@@ -2228,10 +3030,19 @@
                         </dict>
                     </array>
                 </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.500,0.500}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2242,6 +3053,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>2</string>
@@ -2331,10 +3147,19 @@
                         </dict>
                     </array>
                 </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.500,0.500}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2345,6 +3170,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>3</string>
@@ -2434,10 +3264,19 @@
                         </dict>
                     </array>
                 </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.500,0.500}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2448,6 +3287,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>4</string>
@@ -2466,11 +3310,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2481,6 +3338,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2504,11 +3366,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2519,6 +3394,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2542,11 +3422,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2557,6 +3450,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2580,11 +3478,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2595,6 +3506,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2618,11 +3534,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2633,6 +3562,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2656,11 +3590,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2671,6 +3618,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2694,11 +3646,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2709,6 +3674,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2732,11 +3702,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2747,6 +3730,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2770,11 +3758,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2785,6 +3786,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2808,11 +3814,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2823,6 +3842,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2846,11 +3870,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2861,6 +3898,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2884,11 +3926,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2899,6 +3954,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2922,11 +3982,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2937,6 +4010,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2960,11 +4038,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2975,6 +4066,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -2998,11 +4094,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3013,6 +4122,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3036,11 +4150,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3051,6 +4178,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3074,11 +4206,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3089,6 +4234,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3112,11 +4262,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3127,6 +4290,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3150,11 +4318,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3165,6 +4346,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3188,11 +4374,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3203,6 +4402,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3226,11 +4430,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3241,6 +4458,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3264,11 +4486,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3279,6 +4514,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3302,11 +4542,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3317,6 +4570,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3340,11 +4598,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3355,6 +4626,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3378,11 +4654,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3393,6 +4682,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3416,11 +4710,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3449,11 +4756,24 @@
                 <dict>
                     <key>value</key>
                     <string>{571.512,405.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.800,0.800}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3482,11 +4802,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3497,6 +4830,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3519,12 +4857,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{569.500,533.000}</string>
+                    <string>{569.500,536.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{4.509,0.046}</string>
+                    <string>{3.354,0.046}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3535,6 +4886,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>9</string>
@@ -3552,12 +4908,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{569.000,533.000}</string>
+                    <string>{569.000,536.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{5.922,0.046}</string>
+                    <string>{4.401,0.046}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3568,6 +4937,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>9</string>
@@ -3586,11 +4960,24 @@
                 <dict>
                     <key>value</key>
                     <string>{336.000,393.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{2.084,0.046}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3601,6 +4988,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3624,11 +5016,24 @@
                 <dict>
                     <key>value</key>
                     <string>{800.856,393.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.564,0.046}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3639,6 +5044,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3662,11 +5072,24 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,313.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.404,0.046}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3677,6 +5100,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3951,12 +5379,12 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{569.000,533.000}</string>
+                    <string>{569.000,536.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{5.094,0.046}</string>
+                    <string>{3.735,0.046}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3984,12 +5412,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{568.500,398.000}</string>
+                    <string>{568.500,401.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{4.226,0.046}</string>
+                    <string>{3.259,0.046}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4000,6 +5441,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -4022,12 +5468,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{568.500,152.400}</string>
+                    <string>{568.500,155.400}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{7.088,0.046}</string>
+                    <string>{5.357,0.046}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4038,6 +5497,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -4061,11 +5525,24 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.200,0.200}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4076,6 +5553,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -4099,11 +5581,24 @@
                 <dict>
                     <key>value</key>
                     <string>{571.512,317.954}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{2.537,1.652}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4132,11 +5627,24 @@
                 <dict>
                     <key>value</key>
                     <string>{90.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.300,0.300}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4147,6 +5655,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>5</string>
@@ -4165,11 +5678,24 @@
                 <dict>
                     <key>value</key>
                     <string>{90.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.300,0.300}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4180,6 +5706,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>10</string>
@@ -4231,11 +5762,24 @@
                 <dict>
                     <key>value</key>
                     <string>{90.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.300,0.300}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4246,6 +5790,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>13</string>
@@ -4264,11 +5813,24 @@
                 <dict>
                     <key>value</key>
                     <string>{90.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.300,0.300}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4279,6 +5841,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>10</string>
@@ -4314,7 +5881,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4363,11 +5930,24 @@
                 <dict>
                     <key>value</key>
                     <string>{90.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.400,0.400}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4378,6 +5958,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>4</string>
@@ -4396,11 +5981,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4411,6 +6009,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -4434,11 +6037,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4449,6 +6065,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -4472,11 +6093,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4487,6 +6121,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -4510,11 +6149,24 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,570.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4525,6 +6177,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>14</string>
@@ -4543,11 +6200,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4642,11 +6312,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4708,11 +6391,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4841,10 +6537,19 @@
                         </dict>
                     </array>
                 </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.500,0.500}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4855,6 +6560,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -4951,6 +6661,10 @@
                 <dict>
                     <key>value</key>
                     <string>{0.500,0.500}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4961,6 +6675,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -4984,11 +6703,24 @@
                 <dict>
                     <key>value</key>
                     <string>{90.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.300,0.300}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4999,6 +6731,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>5</string>
@@ -5017,11 +6754,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5049,12 +6799,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{567.500,272.800}</string>
+                    <string>{567.500,275.800}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{3.277,0.046}</string>
+                    <string>{2.743,0.046}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5065,6 +6828,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -5088,11 +6856,24 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,110.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.389,0.389}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5103,6 +6884,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -5126,11 +6912,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5141,6 +6940,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -5164,11 +6968,24 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,110.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.389,0.389}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5179,6 +6996,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -5202,11 +7024,24 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,110.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.389,0.389}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5217,6 +7052,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -5278,11 +7118,24 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,110.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.389,0.389}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5293,6 +7146,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -5316,11 +7174,24 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,210.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.389,0.389}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5331,6 +7202,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -5354,11 +7230,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5369,6 +7258,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -5392,11 +7286,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5407,6 +7314,123 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>39625</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>ArcadeNew</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>39668</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>ClassicNew</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
