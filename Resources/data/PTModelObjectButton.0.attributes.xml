@@ -308,8 +308,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>7</string>
@@ -410,11 +408,24 @@
                 <dict>
                     <key>value</key>
                     <string>{90.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.049,1.049}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1906,13 +1917,22 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
                 <dict>
                     <key>animations</key>
                     <array/>
@@ -1921,6 +1941,8 @@
                 <dict>
                     <key>value</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -1940,6 +1962,11 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string></string>
+                </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>
@@ -2032,11 +2059,24 @@
                 <dict>
                     <key>value</key>
                     <string>{90.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.079,1.079}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2047,6 +2087,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -2076,6 +2121,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>4</string>
@@ -2157,10 +2204,19 @@
                         </dict>
                     </array>
                 </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.988,0.988}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2171,6 +2227,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -2198,6 +2259,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>6</string>
@@ -2279,6 +2342,11 @@
                         </dict>
                     </array>
                 </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
@@ -2356,6 +2424,11 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
@@ -2389,6 +2462,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>2</string>
@@ -2470,6 +2545,11 @@
                         </dict>
                     </array>
                 </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
@@ -2547,6 +2627,11 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
@@ -2580,6 +2665,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>5</string>
@@ -2727,8 +2814,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>4</string>

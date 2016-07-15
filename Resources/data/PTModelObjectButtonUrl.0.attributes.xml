@@ -42,27 +42,13 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
                 <dict>
                     <key>animations</key>
                     <array/>
@@ -88,11 +74,6 @@
                     <key>selectedStringValue</key>
                     <string></string>
                 </dict>
-                <key>Block Touch</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Keyboard Key</key>
                 <dict>
                     <key>value</key>
@@ -102,8 +83,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>URL</key>
                 <dict>
@@ -218,7 +197,7 @@
                 <key>URL</key>
                 <dict>
                     <key>value</key>
-                    <string>www.incipia.co/</string>
+                    <string>http://incipia.co</string>
                 </dict>
                 <key>zDepth</key>
                 <string>6</string>
