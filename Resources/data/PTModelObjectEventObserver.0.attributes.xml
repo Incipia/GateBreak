@@ -7,7 +7,7 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>155</string>
+                <string>1875</string>
                 <key>className</key>
                 <string>PTModelObjectEventObserver</string>
                 <key>Name</key>
@@ -18,12 +18,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,570.000}</string>
+                    <string>{65.000,575.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -34,6 +47,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Event Type</key>
                 <dict>
@@ -51,11 +69,11 @@
                     <string>kNoAction</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>5031</string>
+                <string>2499</string>
                 <key>className</key>
                 <string>PTModelObjectEventObserver</string>
                 <key>Name</key>
@@ -66,7 +84,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,570.000}</string>
+                    <string>{65.000,575.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
@@ -99,247 +117,7 @@
                     <string>kNoAction</string>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5756</string>
-                <key>className</key>
-                <string>PTModelObjectEventObserver</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Game Over</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{190.000,570.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Event Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kGameOver</string>
-                </dict>
-                <key>Limit Number</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Function</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>zDepth</key>
-                <string>3</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>12189</string>
-                <key>className</key>
-                <string>PTModelObjectEventObserver</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Game Over</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{190.000,570.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Event Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kGameOver</string>
-                </dict>
-                <key>Limit Number</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Function</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>zDepth</key>
-                <string>3</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>16255</string>
-                <key>className</key>
-                <string>PTModelObjectEventObserver</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Game Over</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{190.000,570.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Event Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kGameOver</string>
-                </dict>
-                <key>Limit Number</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Function</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>zDepth</key>
-                <string>1</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>33979</string>
-                <key>className</key>
-                <string>PTModelObjectEventObserver</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Game Over</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{190.000,570.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Event Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kGameOver</string>
-                </dict>
-                <key>Limit Number</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Function</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>zDepth</key>
-                <string>2</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>36841</string>
-                <key>className</key>
-                <string>PTModelObjectEventObserver</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Event Observer</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{489.005,505.104}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Event Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kGameOver</string>
-                </dict>
-                <key>Limit Number</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Function</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>zDepth</key>
-                <string>1</string>
+                <string>4</string>
             </dict>
         </array>
     </dict>

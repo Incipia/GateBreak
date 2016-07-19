@@ -7,23 +7,23 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>111</string>
+                <string>1382</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Pause</string>
+                    <string>Untitled</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{90.000,560.000}</string>
+                    <string>{285.560,245.769}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.330,1.330}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -38,6 +38,86 @@
                 <key>Action</key>
                 <dict>
                     <key>selectedStringValue</key>
+                    <string>kNoAction</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>PTPScreenScene 2</string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1840</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Pause</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1056.000,560.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
                     <string>kPauseButton</string>
                 </dict>
                 <key>Back To</key>
@@ -45,7 +125,7 @@
                     <key>visible</key>
                     <string>0</string>
                     <key>selectedStringValue</key>
-                    <string>PTPScreenWorldsUI</string>
+                    <string>PTPScreenScene 1</string>
                 </dict>
                 <key>Back To World</key>
                 <dict>
@@ -69,7 +149,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>120</string>
+                <string>1849</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
@@ -80,83 +160,12 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{570.000,550.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>{568.000,170.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.000,12.390}</string>
-                                    <string>{12.390,12.390}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,12.390}</string>
-                                    <string>{12.390,12.390}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.000,5.431}</string>
-                                    <string>{5.431,5.431}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,5.431}</string>
-                                    <string>{5.431,5.431}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -166,16 +175,6 @@
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Action</key>
@@ -188,7 +187,7 @@
                     <key>visible</key>
                     <string>0</string>
                     <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
+                    <string></string>
                 </dict>
                 <key>Back To World</key>
                 <dict>
@@ -212,7 +211,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>126</string>
+                <string>1855</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
@@ -223,154 +222,12 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{90.000,560.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.947,0.947}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>131</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Info Screen</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{90.000,560.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>{568.000,320.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>2</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>146</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Continue</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{90.000,560.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.049,1.049}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -392,7 +249,7 @@
                     <key>visible</key>
                     <string>0</string>
                     <key>selectedStringValue</key>
-                    <string>PTPScreenWorldsUI</string>
+                    <string>PTPScreenMainMenuUI</string>
                 </dict>
                 <key>Back To World</key>
                 <dict>
@@ -412,40 +269,27 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>0</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>162</string>
+                <string>1860</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Restart</string>
+                    <string>Info Screen</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{570.000,112.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>{100.000,540.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{12.111,0.643}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -457,12 +301,311 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAction</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
                 <dict>
                     <key>value</key>
-                    <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1869</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Continue</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{907.500,100.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kBackButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>PTPScreenScene 1</string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1872</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Main Menu</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{907.500,230.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kBackToButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>PTPScreenScene 1</string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1882</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Restart</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{910.000,100.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kRestartButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>PTPScreenScene 1</string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1883</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Main Menu</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{907.500,230.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kBackToButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>PTPScreenScene 1</string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2358</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Restart</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{907.500,100.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{4.783,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -479,434 +622,6 @@
                     <key>visible</key>
                     <string>0</string>
                     <key>selectedStringValue</key>
-                    <string>PTPScreenWorldsUI</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>164</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Main Menu</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{568.000,565.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.200,1.200}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenWorldsUI</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>17</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>217</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Back</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{100.000,540.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,-10.000}</string>
-                                    <string>{-10.000,-10.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,-10.000}</string>
-                                    <string>{-10.000,-10.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,20.000}</string>
-                                    <string>{20.000,20.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,20.000}</string>
-                                    <string>{20.000,20.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.047,1.047}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBackToButton</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenUi 2</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 6</string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>6978</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Arcade</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{180.000,470.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,410.000}</string>
-                                    <string>{410.000,410.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,410.000}</string>
-                                    <string>{410.000,410.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,-230.000}</string>
-                                    <string>{-230.000,-230.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,-230.000}</string>
-                                    <string>{-230.000,-230.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.235,1.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,7.647}</string>
-                                    <string>{7.647,7.647}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,7.647}</string>
-                                    <string>{7.647,7.647}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,0.523}</string>
-                                    <string>{0.523,0.523}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,0.523}</string>
-                                    <string>{0.523,0.523}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
                     <string>PTPScreenScene 1</string>
                 </dict>
                 <key>Back To World</key>
@@ -925,234 +640,29 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>8466</string>
+                <string>2380</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Classic</string>
+                    <string>Next Challenge</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{1020.000,490.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,-430.000}</string>
-                                    <string>{-430.000,-430.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,-430.000}</string>
-                                    <string>{-430.000,-430.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,-30.000}</string>
-                                    <string>{-30.000,-30.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,-30.000}</string>
-                                    <string>{-30.000,-30.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>{910.000,230.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.316,1.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,7.727}</string>
-                                    <string>{7.727,7.727}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,7.727}</string>
-                                    <string>{7.727,7.727}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,0.443}</string>
-                                    <string>{0.443,0.443}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,0.443}</string>
-                                    <string>{0.443,0.443}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>28229</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Classic</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{610.000,330.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{4.783,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1199,40 +709,27 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>28245</string>
+                <string>2442</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Back</string>
+                    <string>Restart</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{90.000,560.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>{907.500,100.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.855,0.855}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
+                    <string>{4.783,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1243,93 +740,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>28246</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Touch</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{570.000,220.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{9.090,1.805}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -1339,7 +749,7 @@
                 <key>Action</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoAction</string>
+                    <string>kRestartButton</string>
                 </dict>
                 <key>Back To</key>
                 <dict>
@@ -1364,194 +774,29 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>28247</string>
+                <string>2448</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Tilt</string>
+                    <string>Next Challenge</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{560.000,470.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>{910.000,230.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{8.091,1.724}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Block Touch</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>28254</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Back</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{90.000,560.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBackToButton</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>9</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>28255</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Arcade</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-140.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{4.783,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1598,401 +843,11 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>28256</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Classic</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{840.000,-120.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>29196</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Leaderboard</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{875.000,560.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.900,0.900}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kGameServices</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenWorldsUI</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>15</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>29201</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Share</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{265.000,557.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.900,0.900}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kShareButton</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenWorldsUI</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>19</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>29206</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Rate</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{723.000,560.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.900,0.900}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kReviewButton</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenWorldsUI</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>16</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>29235</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Navigation Button 4</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{978.009,561.450}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>14</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>33978</string>
+                <string>2498</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
@@ -2003,25 +858,12 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{90.000,560.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>{1056.000,560.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.079,1.079}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2032,11 +874,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -2048,7 +885,7 @@
                     <key>visible</key>
                     <string>0</string>
                     <key>selectedStringValue</key>
-                    <string>PTPScreenUi 4</string>
+                    <string>PTPScreenMainMenuUI</string>
                 </dict>
                 <key>Back To World</key>
                 <dict>
@@ -2066,102 +903,163 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4527</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Restart</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{907.500,100.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{4.783,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kRestartButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>PTPScreenScene 5</string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4533</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Next Challenge</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{910.000,230.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{4.783,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAction</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>PTPScreenScene 5</string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
                 </dict>
                 <key>zDepth</key>
                 <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>33985</string>
+                <string>4927</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Back</string>
+                    <string>Restart</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,540.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,-10.000}</string>
-                                    <string>{-10.000,-10.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,-10.000}</string>
-                                    <string>{-10.000,-10.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,20.000}</string>
-                                    <string>{20.000,20.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,20.000}</string>
-                                    <string>{20.000,20.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>{907.500,100.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.988,0.988}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
+                    <string>{4.783,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2172,516 +1070,16 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBackToButton</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenUi 2</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 6</string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>33986</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Arcade</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{160.000,470.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,410.000}</string>
-                                    <string>{410.000,410.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,410.000}</string>
-                                    <string>{410.000,410.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,-230.000}</string>
-                                    <string>{-230.000,-230.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,-230.000}</string>
-                                    <string>{-230.000,-230.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.316,1.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,7.647}</string>
-                                    <string>{7.647,7.647}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,7.647}</string>
-                                    <string>{7.647,7.647}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,0.523}</string>
-                                    <string>{0.523,0.523}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,0.523}</string>
-                                    <string>{0.523,0.523}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Block Touch</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>1</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>33987</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Classic</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{990.000,490.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,-430.000}</string>
-                                    <string>{-430.000,-430.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,-430.000}</string>
-                                    <string>{-430.000,-430.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,-30.000}</string>
-                                    <string>{-30.000,-30.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,-30.000}</string>
-                                    <string>{-30.000,-30.000}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.235,1.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,7.727}</string>
-                                    <string>{7.727,7.727}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,7.727}</string>
-                                    <string>{7.727,7.727}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.033,0.443}</string>
-                                    <string>{0.443,0.443}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,0.443}</string>
-                                    <string>{0.443,0.443}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Block Touch</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>5</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>35125</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Navigation Button</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{416.560,412.535}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
+                    <string>kRestartButton</string>
                 </dict>
                 <key>Back To</key>
                 <dict>
@@ -2708,27 +1106,27 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>35127</string>
+                <string>4933</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Restore Purchases</string>
+                    <string>Next Challenge</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{568.000,190.000}</string>
+                    <string>{910.000,230.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{7.755,0.800}</string>
+                    <string>{4.783,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2748,7 +1146,7 @@
                 <key>Action</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kRestorePurchasesButton</string>
+                    <string>kNoAction</string>
                 </dict>
                 <key>Back To</key>
                 <dict>
@@ -2779,23 +1177,23 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>35131</string>
+                <string>5522</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Navigation Button</string>
+                    <string>Restart</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{364.238,792.872}</string>
+                    <string>{907.500,100.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{4.783,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2807,10 +1205,15 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Action</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoAction</string>
+                    <string>kRestartButton</string>
                 </dict>
                 <key>Back To</key>
                 <dict>
@@ -2837,89 +1240,27 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>21</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>36815</string>
+                <string>5528</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Start</string>
+                    <string>Next Challenge</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{570.000,550.000}</string>
+                    <string>{910.000,230.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.000,12.390}</string>
-                                    <string>{12.390,12.390}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,12.390}</string>
-                                    <string>{12.390,12.390}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.000,5.431}</string>
-                                    <string>{5.431,5.431}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,5.431}</string>
-                                    <string>{5.431,5.431}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
+                    <string>{4.783,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2930,335 +1271,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>36816</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Info Screen</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{90.000,560.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>1</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>36835</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Navigation Button</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1068.566,426.621}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>36837</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Navigation Button</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{570.000,320.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{10.941,6.393}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kExitButton</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>36845</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Start</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{570.000,550.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.000,12.390}</string>
-                                    <string>{12.390,12.390}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,12.390}</string>
-                                    <string>{12.390,12.390}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                    <key>animationsY</key>
-                    <array>
-                        <dict>
-                            <key>state</key>
-                            <string>0</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{1.000,5.431}</string>
-                                    <string>{5.431,5.431}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                        <dict>
-                            <key>state</key>
-                            <string>1</string>
-                            <key>animation</key>
-                            <dict>
-                                <key>points</key>
-                                <array>
-                                    <string>{0.000,5.431}</string>
-                                    <string>{5.431,5.431}</string>
-                                </array>
-                                <key>preset</key>
-                                <string>4</string>
-                            </dict>
-                        </dict>
-                    </array>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -3293,93 +1305,9 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>36846</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Info Screen</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{90.000,560.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoAction</string>
-                </dict>
-                <key>Back To</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>PTPScreenScene 1</string>
-                </dict>
-                <key>Back To World</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string></string>
-                </dict>
-                <key>Keyboard Key</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1</string>
-                </dict>
-                <key>Touch Emulation</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>1</string>
+                <string>4</string>
             </dict>
         </array>
     </dict>

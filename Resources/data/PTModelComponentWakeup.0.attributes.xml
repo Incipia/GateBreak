@@ -7,7 +7,7 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>10581</string>
+                <string>962</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -20,3807 +20,12 @@
                 <key>Wake Up</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>10583</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15054</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15092</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15101</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15141</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15222</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15533</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15552</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15562</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>17732</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>17753</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>19302</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>19318</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>19344</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>19354</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>19798</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>19811</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>19820</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>19824</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21069</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21071</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21075</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21099</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21558</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21574</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21595</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21610</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21631</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21640</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21656</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>21674</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>22412</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>22425</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>22431</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>22808</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>22820</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>22825</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23014</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23071</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23083</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23097</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23202</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23218</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23263</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23276</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23282</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23297</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23299</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23358</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23371</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23377</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23491</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23507</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23616</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23628</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23633</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23696</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23701</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>23707</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>24697</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>24706</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>24718</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>24723</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>24741</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25096</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25109</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25115</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25423</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25436</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25460</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25486</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25499</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25532</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25551</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25563</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>25589</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>27696</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>27931</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34043</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34059</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34073</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34088</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34104</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34117</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34123</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34138</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34151</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34157</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34175</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34177</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34205</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34221</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34236</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34249</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34255</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34270</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34283</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34289</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34319</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34339</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34345</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34347</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34351</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34379</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34381</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34385</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34390</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34406</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34422</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34441</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34454</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34463</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34467</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34486</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
+                    <string>kCollisionBasedWakeup</string>
                 </dict>
                 <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34499</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -3835,7 +40,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34508</string>
+                <string>963</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -3853,7 +58,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -3868,7 +73,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34512</string>
+                <string>1269</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -3881,45 +86,12 @@
                 <key>Wake Up</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
+                    <string>kCollisionBasedWakeup</string>
                 </dict>
                 <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>34531</string>
-                <key>className</key>
-                <string>PTModelComponentWakeup</string>
-                <key>Name</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>Wake Up</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -3934,7 +106,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34544</string>
+                <string>1292</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -3952,7 +124,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -3967,7 +139,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34553</string>
+                <string>5091</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -3981,11 +153,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4000,7 +167,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34572</string>
+                <string>5093</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4014,11 +181,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4033,7 +195,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34584</string>
+                <string>5095</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4047,11 +209,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4066,7 +223,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34589</string>
+                <string>5097</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4080,11 +237,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4099,7 +251,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34606</string>
+                <string>5099</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4113,11 +265,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4132,7 +279,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34618</string>
+                <string>5101</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4146,11 +293,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4165,7 +307,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34623</string>
+                <string>5103</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4179,11 +321,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4198,7 +335,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34643</string>
+                <string>5105</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4212,11 +349,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4231,7 +363,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34655</string>
+                <string>5107</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4245,11 +377,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4264,7 +391,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34664</string>
+                <string>5109</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4282,7 +409,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>20.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4297,7 +424,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34689</string>
+                <string>5111</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4311,11 +438,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4330,7 +452,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34694</string>
+                <string>5113</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4344,11 +466,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4363,7 +480,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34700</string>
+                <string>5115</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4377,11 +494,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4396,7 +508,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34793</string>
+                <string>5117</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4410,11 +522,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4429,7 +536,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34806</string>
+                <string>5120</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4443,11 +550,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4462,7 +564,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34819</string>
+                <string>5122</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4476,11 +578,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4495,7 +592,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34832</string>
+                <string>5140</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4509,11 +606,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4528,7 +620,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34838</string>
+                <string>5142</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4542,11 +634,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4561,7 +648,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34853</string>
+                <string>5144</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4575,11 +662,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4594,7 +676,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34855</string>
+                <string>5147</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4612,7 +694,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4627,7 +709,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34872</string>
+                <string>5149</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4645,7 +727,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>10.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4660,7 +742,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34887</string>
+                <string>5151</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4678,7 +760,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4693,7 +775,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34900</string>
+                <string>5153</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4711,7 +793,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>10.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4726,7 +808,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34906</string>
+                <string>5155</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4744,7 +826,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4759,7 +841,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34921</string>
+                <string>5157</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4777,7 +859,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4792,7 +874,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34933</string>
+                <string>5159</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4810,7 +892,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4825,7 +907,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34951</string>
+                <string>5161</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4843,7 +925,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4858,7 +940,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34963</string>
+                <string>5163</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4876,7 +958,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4891,7 +973,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34968</string>
+                <string>5165</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4909,7 +991,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4924,7 +1006,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34985</string>
+                <string>5167</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4942,7 +1024,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4957,7 +1039,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>34997</string>
+                <string>5169</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -4971,11 +1053,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -4990,7 +1067,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>35002</string>
+                <string>5174</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -5004,11 +1081,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -5023,7 +1095,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>35009</string>
+                <string>5176</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -5041,7 +1113,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -5056,7 +1128,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>35036</string>
+                <string>5178</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -5074,7 +1146,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -5089,7 +1161,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>35041</string>
+                <string>5180</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -5107,7 +1179,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>100.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -5122,7 +1194,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>35047</string>
+                <string>5451</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -5140,7 +1212,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>20.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -5155,7 +1227,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>38167</string>
+                <string>5453</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -5173,7 +1245,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>10.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -5188,7 +1260,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>38194</string>
+                <string>5455</string>
                 <key>className</key>
                 <string>PTModelComponentWakeup</string>
                 <key>Name</key>
@@ -5206,7 +1278,7 @@
                 <key>Wakeup Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>700.000000</string>
+                    <string>10.000000</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>

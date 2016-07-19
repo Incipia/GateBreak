@@ -7,236 +7,155 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>101</string>
-                <key>Game Over</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>153</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
+                <string>99</string>
                 <key>Pause</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>138</string>
+                    <string>1861</string>
+                    <key>attributeName</key>
+                    <string>Load</string>
+                    <key>isAction</key>
+                    <string>true</string>
+                </dict>
+                <key>Game Over</key>
+                <dict>
+                    <key>connectedModelId</key>
+                    <string>1873</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
                 <key>modelId</key>
-                <string>102</string>
+                <string>100</string>
                 <key>attributesCount</key>
                 <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>112</string>
-                <key>Info Screen</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>123</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
+                <string>1841</string>
                 <key>Start</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>28242</string>
+                    <string>5529</string>
+                    <key>attributeName</key>
+                    <string>Load</string>
+                    <key>isAction</key>
+                    <string>true</string>
+                </dict>
+                <key>Info Screen</key>
+                <dict>
+                    <key>connectedModelId</key>
+                    <string>1852</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
                 <key>modelId</key>
-                <string>113</string>
+                <string>1842</string>
                 <key>attributesCount</key>
                 <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>123</string>
-                <key>Back</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>38103</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
+                <string>1852</string>
                 <key>modelId</key>
-                <string>124</string>
-                <key>attributesCount</key>
-                <string>4</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>132</string>
-                <key>Arcade</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>10572</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>Classic</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>23145</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>modelId</key>
-                <string>133</string>
-                <key>attributesCount</key>
-                <string>5</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>138</string>
-                <key>modelId</key>
-                <string>139</string>
+                <string>1853</string>
                 <key>attributesCount</key>
                 <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>153</string>
-                <key>Main Menu</key>
+                <string>1861</string>
+                <key>modelId</key>
+                <string>1862</string>
+                <key>attributesCount</key>
+                <string>3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1873</string>
+                <key>modelId</key>
+                <string>1874</string>
+                <key>attributesCount</key>
+                <string>3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2354</string>
+                <key>Next Challenge</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>38103</string>
+                    <string>2381</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
                 <key>modelId</key>
-                <string>154</string>
+                <string>2355</string>
                 <key>attributesCount</key>
                 <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>28242</string>
-                <key>Back</key>
+                <string>2439</string>
+                <key>Next Challenge</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>38103</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>Touch</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>132</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>Tilt</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>33982</string>
+                    <string>4353</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
                 <key>modelId</key>
-                <string>28243</string>
+                <string>2440</string>
                 <key>attributesCount</key>
-                <string>6</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>33976</string>
-                <key>Game Over</key>
+                <string>4524</string>
+                <key>Next Challenge</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>153</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>Pause</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>138</string>
+                    <string>1393</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
                 <key>modelId</key>
-                <string>33977</string>
+                <string>4525</string>
                 <key>attributesCount</key>
-                <string>5</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>33982</string>
-                <key>Arcade</key>
+                <string>4924</string>
+                <key>Next Challenge</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>33992</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>Classic</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>34742</string>
+                    <string>4752</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
                 <key>modelId</key>
-                <string>33983</string>
+                <string>4925</string>
                 <key>attributesCount</key>
-                <string>5</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>36843</string>
-                <key>Info Screen</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>123</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>Start</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>28242</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
+                <string>5519</string>
                 <key>modelId</key>
-                <string>36844</string>
+                <string>5520</string>
                 <key>attributesCount</key>
-                <string>5</string>
+                <string>4</string>
             </dict>
         </array>
     </dict>

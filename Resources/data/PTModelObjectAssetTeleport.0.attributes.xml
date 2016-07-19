@@ -7,7 +7,7 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>2164</string>
+                <string>3183</string>
                 <key>className</key>
                 <string>PTModelObjectAssetTeleport</string>
                 <key>Name</key>
@@ -18,7 +18,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{948.044,427.416}</string>
+                    <string>{1060.000,250.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
@@ -40,12 +40,17 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Single Use</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1000</string>
+                <string>506</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>2168</string>
+                <string>3187</string>
                 <key>className</key>
                 <string>PTModelObjectAssetTeleport</string>
                 <key>Name</key>
@@ -56,7 +61,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{740.000,540.000}</string>
+                    <string>{1180.000,580.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
@@ -78,8 +83,18 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Single Use</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Exit Only</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
                 <key>zDepth</key>
-                <string>501</string>
+                <string>507</string>
             </dict>
         </array>
     </dict>
