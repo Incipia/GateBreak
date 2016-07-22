@@ -21,51 +21,86 @@
                 <dict>
                     <key>value</key>
                     <string>{100.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Bounce Force</key>
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Force</key>
                 <dict>
                     <key>value</key>
                     <string>{0.000,25.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Jump Timeout</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Jump Counter</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Ground Threshold</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Left Lean Force</key>
                 <dict>
                     <key>value</key>
                     <string>5.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Right Lean Force</key>
                 <dict>
                     <key>value</key>
                     <string>5.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Platform Friction</key>
                 <dict>
                     <key>value</key>
                     <string>0.200000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Rotation Drag</key>
                 <dict>
                     <key>value</key>
                     <string>0.920000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Air Drag</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
             </dict>
         </array>

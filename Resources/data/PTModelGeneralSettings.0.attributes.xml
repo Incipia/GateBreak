@@ -20,12 +20,12 @@
                 <key>Version Number</key>
                 <dict>
                     <key>value</key>
-                    <string>2.5</string>
+                    <string>.01</string>
                 </dict>
                 <key>Application Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Flippin Drive</string>
+                    <string>Roots</string>
                 </dict>
                 <key>Comments</key>
                 <dict>
@@ -185,15 +185,15 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>5920</string>
+                <string>12472</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
                     <dict>
                         <key>bundleID</key>
-                        <string>com.Incipia.GateBreak</string>
+                        <string>com.incipia.roots</string>
                         <key>nameOnDevice</key>
-                        <string>Untitled</string>
+                        <string>Roots</string>
                         <key>shareMessageTemplate</key>
                         <string></string>
                         <key>reviewLink</key>

@@ -19,11 +19,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.100,315.536}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{4.581,4.491}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -34,61 +47,26 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Tiling Offset</key>
                 <dict>
                     <key>value</key>
                     <string>-2.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>-100</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>1834</string>
-                <key>className</key>
-                <string>PTModelObjectBackground</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>DarkClouds</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{509.546,334.246}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.200,1.200}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.500000</string>
-                </dict>
-                <key>Speed</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.200000</string>
-                </dict>
-                <key>zDepth</key>
-                <string>-99</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -104,11 +82,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.100,315.536}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{4.581,4.491}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -119,8 +110,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Tiling Offset</key>
                 <dict>
@@ -129,46 +123,6 @@
                 </dict>
                 <key>zDepth</key>
                 <string>-100</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2384</string>
-                <key>className</key>
-                <string>PTModelObjectBackground</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>DarkClouds</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.100,334.246}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.200,1.200}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.500000</string>
-                </dict>
-                <key>zDepth</key>
-                <string>-99</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -184,11 +138,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.100,315.536}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{4.581,4.491}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -199,61 +166,26 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Tiling Offset</key>
                 <dict>
                     <key>value</key>
                     <string>-2.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>-100</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4356</string>
-                <key>className</key>
-                <string>PTModelObjectBackground</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>DarkClouds</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{509.546,334.246}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.200,1.200}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.500000</string>
-                </dict>
-                <key>Speed</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.200000</string>
-                </dict>
-                <key>zDepth</key>
-                <string>-99</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -269,11 +201,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.100,315.536}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{4.581,4.491}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -284,8 +229,74 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Tiling Offset</key>
+                <dict>
                     <key>value</key>
-                    <string>1</string>
+                    <string>-2.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>-100</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5531</string>
+                <key>className</key>
+                <string>PTModelObjectBackground</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Background</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,315.536}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{4.581,4.491}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Tiling Offset</key>
                 <dict>
@@ -297,52 +308,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>4755</string>
-                <key>className</key>
-                <string>PTModelObjectBackground</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>DarkClouds</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{509.546,334.246}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.200,1.200}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.500000</string>
-                </dict>
-                <key>Speed</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.200000</string>
-                </dict>
-                <key>zDepth</key>
-                <string>-99</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5531</string>
+                <string>5987</string>
                 <key>className</key>
                 <string>PTModelObjectBackground</string>
                 <key>Name</key>
@@ -382,7 +348,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>5532</string>
+                <string>5988</string>
                 <key>className</key>
                 <string>PTModelObjectBackground</string>
                 <key>Name</key>
@@ -424,6 +390,118 @@
                 </dict>
                 <key>zDepth</key>
                 <string>-99</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8459</string>
+                <key>className</key>
+                <string>PTModelObjectBackground</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Background</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,315.536}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{4.581,4.491}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Tiling Offset</key>
+                <dict>
+                    <key>value</key>
+                    <string>-2.000000</string>
+                </dict>
+                <key>zDepth</key>
+                <string>-100</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10988</string>
+                <key>className</key>
+                <string>PTModelObjectBackground</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Background</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,315.536}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{4.581,4.491}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Tiling Offset</key>
+                <dict>
+                    <key>value</key>
+                    <string>-2.000000</string>
+                </dict>
+                <key>zDepth</key>
+                <string>-100</string>
             </dict>
         </array>
     </dict>

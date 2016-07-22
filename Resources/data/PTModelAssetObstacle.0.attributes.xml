@@ -28,10 +28,10 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{-117.000000,-116.000000}</string>
-                        <string>{117.000000,-116.000000}</string>
-                        <string>{117.000000,117.000000}</string>
-                        <string>{-117.000000,117.000000}</string>
+                        <string>{-119.000000,-119.000000}</string>
+                        <string>{119.000000,-119.000000}</string>
+                        <string>{119.000000,119.000000}</string>
+                        <string>{-119.000000,119.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -47,7 +47,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Enemy</string>
+                    <string>SpikeWhite</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
@@ -62,9 +62,9 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{0.000000,-86.000000}</string>
-                        <string>{95.000000,88.000000}</string>
-                        <string>{-94.000000,88.000000}</string>
+                        <string>{0.000000,-78.000000}</string>
+                        <string>{91.000000,81.000000}</string>
+                        <string>{-91.000000,81.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -151,9 +151,9 @@
                 <key>Collision Shape</key>
                 <dict>
                     <key>id</key>
-                    <string>5185</string>
+                    <string>8992</string>
                     <key>className</key>
-                    <string>PTModelPolygon</string>
+                    <string>PTModelCircle</string>
                     <key>Name</key>
                     <dict>
                         <key>value</key>
@@ -161,15 +161,13 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{-500.000000,-500.000000}</string>
-                        <string>{500.000000,-500.000000}</string>
-                        <string>{500.000000,500.000000}</string>
-                        <string>{-500.000000,500.000000}</string>
+                        <string>{0.500000,0.500000}</string>
+                        <string>{12.500000,0.500000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
                     <key>shapeType</key>
-                    <string>1</string>
+                    <string>2</string>
                 </dict>
             </dict>
             <dict>
@@ -199,6 +197,276 @@
                         <string>{20.000000,-8.000000}</string>
                         <string>{20.000000,9.000000}</string>
                         <string>{-20.000000,9.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7097</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>InvisObj</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>7098</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-25.000000,-25.000000}</string>
+                        <string>{25.000000,-25.000000}</string>
+                        <string>{25.000000,25.000000}</string>
+                        <string>{-25.000000,25.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7414</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>WhiteCircle</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>8993</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{0.000000,0.000000}</string>
+                        <string>{24.000000,0.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7545</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>right-arrow-in-circular-button-1</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>7546</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-256.000000,-256.000000}</string>
+                        <string>{256.000000,-256.000000}</string>
+                        <string>{256.000000,256.000000}</string>
+                        <string>{-256.000000,256.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8943</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>number-one-in-a-circle</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>8944</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-256.000000,-256.000000}</string>
+                        <string>{256.000000,-256.000000}</string>
+                        <string>{256.000000,256.000000}</string>
+                        <string>{-256.000000,256.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8954</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>number-two-in-a-circle</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>8955</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-256.000000,-256.000000}</string>
+                        <string>{256.000000,-256.000000}</string>
+                        <string>{256.000000,256.000000}</string>
+                        <string>{-256.000000,256.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8965</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>number-three-in-a-circle</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>8966</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-256.000000,-256.000000}</string>
+                        <string>{256.000000,-256.000000}</string>
+                        <string>{256.000000,256.000000}</string>
+                        <string>{-256.000000,256.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9430</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>FinishLine</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>9431</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-50.000000,-50.000000}</string>
+                        <string>{50.000000,-50.000000}</string>
+                        <string>{50.000000,50.000000}</string>
+                        <string>{-50.000000,50.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9441</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlackBlock</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>9442</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-50.000000,-50.000000}</string>
+                        <string>{50.000000,-50.000000}</string>
+                        <string>{50.000000,50.000000}</string>
+                        <string>{-50.000000,50.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>

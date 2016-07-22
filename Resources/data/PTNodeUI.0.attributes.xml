@@ -18,7 +18,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{387.000,-122.000}</string>
+                    <string>{706.000,344.000}</string>
                 </dict>
             </dict>
             <dict>
@@ -34,7 +34,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{-200.000,-100.000}</string>
+                    <string>{-172.000,-45.000}</string>
                 </dict>
             </dict>
             <dict>
@@ -50,71 +50,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,-210.000}</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>1861</string>
-                <key>className</key>
-                <string>PTNodeUI</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Pause</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{620.000,-210.000}</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>1873</string>
-                <key>className</key>
-                <string>PTNodeUI</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Game Over UI</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{674.000,-50.000}</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2354</string>
-                <key>className</key>
-                <string>PTNodeUI</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Game Over UI</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{105.000,171.000}</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>2439</string>
-                <key>className</key>
-                <string>PTNodeUI</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Game Over UI</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{100.000,379.000}</string>
+                    <string>{417.000,-215.000}</string>
                 </dict>
             </dict>
             <dict>
@@ -125,17 +61,65 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Game Over UI</string>
+                    <string>Win Screen</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{105.000,-19.000}</string>
+                    <string>{443.000,135.000}</string>
                 </dict>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4924</string>
+                <string>5921</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Level Select</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-157.000,186.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8368</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Difficulty</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-431.000,204.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8830</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Tutorial UI</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-9.000,-244.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8838</string>
                 <key>className</key>
                 <string>PTNodeUI</string>
                 <key>Name</key>
@@ -146,12 +130,44 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{101.000,580.000}</string>
+                    <string>{209.000,-332.000}</string>
                 </dict>
             </dict>
             <dict>
                 <key>id</key>
-                <string>5519</string>
+                <string>8981</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Tutorial Pause</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{205.000,-243.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>12213</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Pause</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{945.000,363.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>12293</string>
                 <key>className</key>
                 <string>PTNodeUI</string>
                 <key>Name</key>
@@ -162,7 +178,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{102.000,777.000}</string>
+                    <string>{920.000,236.000}</string>
                 </dict>
             </dict>
         </array>

@@ -67,6 +67,87 @@
                     <string>5721</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>7097</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7099</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7414</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7416</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7545</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7547</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8943</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8945</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8954</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8956</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8965</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8967</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9430</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9432</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9457</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>9509</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9441</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9443</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

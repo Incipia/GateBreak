@@ -19,16 +19,22 @@
                 <dict>
                     <key>value</key>
                     <string>2048.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>height</key>
                 <dict>
                     <key>value</key>
                     <string>2048.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>padding</key>
                 <dict>
                     <key>value</key>
                     <string>4.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
             <dict>
@@ -45,16 +51,54 @@
                 <dict>
                     <key>value</key>
                     <string>2048.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>height</key>
                 <dict>
                     <key>value</key>
                     <string>2048.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>padding</key>
                 <dict>
                     <key>value</key>
                     <string>4.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6763</string>
+                <key>className</key>
+                <string>PTModelAtlas</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Atlas#3</string>
+                </dict>
+                <key>width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2048.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>height</key>
+                <dict>
+                    <key>value</key>
+                    <string>2048.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>padding</key>
+                <dict>
+                    <key>value</key>
+                    <string>4.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
         </array>
