@@ -1,4 +1,4 @@
-BUNDLEID=com.incipia.roots
+BUNDLEID=com.Incipia.GateBreak
 XCPROJECT=-project PTPlayer.xcodeproj
 XCWORKSPACE=-workspace PTPlayer.xcodeproj/project.xcworkspace
 ARCHIVEPATH=-archivePath bin/PZPlayer.xcarchive

@@ -7,114 +7,98 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>1393</string>
+                <string>10572</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>World 2</string>
+                    <string>Arcade</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{105.000,97.000}</string>
+                    <string>{188.000,300.000}</string>
                 </dict>
             </dict>
             <dict>
                 <key>id</key>
-                <string>2381</string>
+                <string>23145</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>World3</string>
+                    <string>Classic</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{112.000,269.000}</string>
+                    <string>{193.000,445.000}</string>
                 </dict>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4353</string>
+                <string>27158</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>World 4</string>
+                    <string>MainMenuSong</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{115.000,476.000}</string>
+                    <string>{-304.000,-336.000}</string>
                 </dict>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4752</string>
+                <string>33992</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>World 5</string>
+                    <string>Arcade</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{119.000,671.000}</string>
+                    <string>{183.000,45.000}</string>
                 </dict>
             </dict>
             <dict>
                 <key>id</key>
-                <string>5529</string>
+                <string>34742</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>World 1</string>
+                    <string>Classic</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{105.000,-29.000}</string>
+                    <string>{181.000,182.000}</string>
                 </dict>
             </dict>
             <dict>
                 <key>id</key>
-                <string>8457</string>
+                <string>38103</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>TutorialWorld</string>
+                    <string>MainMenuWorld</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{-217.000,-261.000}</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>10986</string>
-                <key>className</key>
-                <string>PTNodeScene</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>MainMenuUnder</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-363.000,7.000}</string>
+                    <string>{-380.000,-109.000}</string>
                 </dict>
             </dict>
         </array>

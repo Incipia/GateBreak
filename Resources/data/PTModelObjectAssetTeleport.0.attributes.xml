@@ -7,7 +7,7 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>3183</string>
+                <string>2164</string>
                 <key>className</key>
                 <string>PTModelObjectAssetTeleport</string>
                 <key>Name</key>
@@ -18,25 +18,12 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{1060.000,250.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>{948.044,427.416}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -53,17 +40,12 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Single Use</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
                 <key>zDepth</key>
-                <string>506</string>
+                <string>1000</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3187</string>
+                <string>2168</string>
                 <key>className</key>
                 <string>PTModelObjectAssetTeleport</string>
                 <key>Name</key>
@@ -74,25 +56,12 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{1180.000,580.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>{740.000,540.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -109,18 +78,8 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Single Use</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Exit Only</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
                 <key>zDepth</key>
-                <string>507</string>
+                <string>501</string>
             </dict>
         </array>
     </dict>
