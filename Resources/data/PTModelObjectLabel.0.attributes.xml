@@ -42,15 +42,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -98,20 +94,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>
@@ -367,7 +354,7 @@
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>2</string>
                 </dict>
                 <key>Tracking</key>
                 <dict>
@@ -442,7 +429,7 @@
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>2</string>
                 </dict>
                 <key>Tracking</key>
                 <dict>
@@ -517,7 +504,7 @@
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>2</string>
                 </dict>
                 <key>Tracking</key>
                 <dict>
@@ -592,7 +579,7 @@
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>2</string>
                 </dict>
                 <key>Tracking</key>
                 <dict>
@@ -766,7 +753,7 @@
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>2</string>
                 </dict>
                 <key>zDepth</key>
                 <string>1</string>
@@ -844,7 +831,7 @@
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>2</string>
                 </dict>
                 <key>zDepth</key>
                 <string>3</string>
@@ -922,7 +909,7 @@
                 <key>Font</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>3166</string>
+                    <string>2</string>
                 </dict>
                 <key>zDepth</key>
                 <string>2</string>
@@ -1350,15 +1337,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -1406,20 +1389,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>
@@ -1653,15 +1627,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -1710,21 +1680,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>29654</string>
-                </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>3</string>
@@ -1768,15 +1723,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -1825,21 +1776,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>29654</string>
-                </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>2</string>
@@ -1979,15 +1915,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -2093,21 +2025,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>29654</string>
-                </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>1</string>
@@ -2267,15 +2184,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -2379,21 +2292,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>29654</string>
-                </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>2</string>
@@ -2587,16 +2485,6 @@
                     <key>selectedStringValue</key>
                     <string>29654</string>
                 </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
                 <string>3</string>
                 <key>calculatedSize</key>
@@ -2692,16 +2580,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>29654</string>
-                </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>4</string>
@@ -2799,16 +2677,6 @@
                     <key>selectedStringValue</key>
                     <string>29654</string>
                 </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
                 <string>4</string>
                 <key>calculatedSize</key>
@@ -2905,16 +2773,6 @@
                     <key>selectedStringValue</key>
                     <string>29654</string>
                 </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
                 <string>5</string>
                 <key>calculatedSize</key>
@@ -2957,15 +2815,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -3072,21 +2926,6 @@
                     <key>selectedStringValue</key>
                     <string>29654</string>
                 </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
                 <string>2</string>
                 <key>calculatedSize</key>
@@ -3129,15 +2968,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -3243,21 +3078,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>29654</string>
-                </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>2</string>
@@ -3441,15 +3261,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -3556,21 +3372,6 @@
                     <key>selectedStringValue</key>
                     <string>29654</string>
                 </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
                 <string>2</string>
                 <key>calculatedSize</key>
@@ -3613,15 +3414,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -3727,21 +3524,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>29654</string>
-                </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>3</string>
@@ -3925,15 +3707,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -4039,21 +3817,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>29654</string>
-                </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>3</string>

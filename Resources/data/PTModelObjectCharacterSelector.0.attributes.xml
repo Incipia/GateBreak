@@ -57,24 +57,11 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,210.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{16.210,2.373}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -213,24 +200,11 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,110.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{12.913,1.121}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -281,38 +255,21 @@
                 <dict>
                     <key>value</key>
                     <string>{568.000,110.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{12.913,1.121}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -323,15 +280,11 @@
                 <dict>
                     <key>value</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Vertical Spacing</key>
                 <dict>
                     <key>value</key>
                     <string>10.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Name</key>
                 <dict>
@@ -339,11 +292,6 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string>2</string>
-                </dict>
-                <key>Spread</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>9</string>
